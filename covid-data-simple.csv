@@ -222,6 +222,7 @@ ABW,North America,Aruba,2020-10-23,4389.0,20.0,36.0
 ABW,North America,Aruba,2020-10-24,4401.0,12.0,36.0
 ABW,North America,Aruba,2020-10-25,4410.0,9.0,36.0
 ABW,North America,Aruba,2020-10-26,4420.0,10.0,36.0
+ABW,North America,Aruba,2020-10-27,4420.0,0.0,36.0
 AFG,Asia,Afghanistan,2019-12-31,,0.0,
 AFG,Asia,Afghanistan,2020-01-01,,0.0,
 AFG,Asia,Afghanistan,2020-01-02,,0.0,
@@ -523,6 +524,7 @@ AFG,Asia,Afghanistan,2020-10-23,40626.0,116.0,1505.0
 AFG,Asia,Afghanistan,2020-10-24,40687.0,61.0,1507.0
 AFG,Asia,Afghanistan,2020-10-25,40768.0,81.0,1511.0
 AFG,Asia,Afghanistan,2020-10-26,40833.0,65.0,1514.0
+AFG,Asia,Afghanistan,2020-10-27,41032.0,199.0,1522.0
 AGO,Africa,Angola,2020-03-22,2.0,2.0,
 AGO,Africa,Angola,2020-03-23,2.0,0.0,
 AGO,Africa,Angola,2020-03-24,2.0,0.0,
@@ -742,6 +744,7 @@ AGO,Africa,Angola,2020-10-23,8338.0,289.0,255.0
 AGO,Africa,Angola,2020-10-24,8582.0,244.0,260.0
 AGO,Africa,Angola,2020-10-25,8829.0,247.0,265.0
 AGO,Africa,Angola,2020-10-26,9026.0,197.0,267.0
+AGO,Africa,Angola,2020-10-27,9381.0,355.0,268.0
 AIA,North America,Anguilla,2020-03-27,2.0,2.0,
 AIA,North America,Anguilla,2020-03-28,2.0,0.0,
 AIA,North America,Anguilla,2020-03-29,2.0,0.0,
@@ -956,6 +959,7 @@ AIA,North America,Anguilla,2020-10-23,3.0,0.0,
 AIA,North America,Anguilla,2020-10-24,3.0,0.0,
 AIA,North America,Anguilla,2020-10-25,3.0,0.0,
 AIA,North America,Anguilla,2020-10-26,3.0,0.0,
+AIA,North America,Anguilla,2020-10-27,3.0,0.0,
 ALB,Europe,Albania,2020-03-09,2.0,2.0,
 ALB,Europe,Albania,2020-03-10,6.0,4.0,
 ALB,Europe,Albania,2020-03-11,10.0,4.0,
@@ -1188,6 +1192,7 @@ ALB,Europe,Albania,2020-10-23,18250.0,302.0,465.0
 ALB,Europe,Albania,2020-10-24,18556.0,306.0,469.0
 ALB,Europe,Albania,2020-10-25,18858.0,302.0,473.0
 ALB,Europe,Albania,2020-10-26,19157.0,299.0,477.0
+ALB,Europe,Albania,2020-10-27,19445.0,288.0,480.0
 AND,Europe,Andorra,2020-03-03,1.0,1.0,
 AND,Europe,Andorra,2020-03-09,,,
 AND,Europe,Andorra,2020-03-10,,,
@@ -1421,6 +1426,7 @@ AND,Europe,Andorra,2020-10-23,3811.0,0.0,63.0
 AND,Europe,Andorra,2020-10-24,4038.0,227.0,69.0
 AND,Europe,Andorra,2020-10-25,4038.0,0.0,69.0
 AND,Europe,Andorra,2020-10-26,4038.0,0.0,69.0
+AND,Europe,Andorra,2020-10-27,4325.0,287.0,72.0
 ARE,Asia,United Arab Emirates,2019-12-31,,0.0,
 ARE,Asia,United Arab Emirates,2020-01-01,,0.0,
 ARE,Asia,United Arab Emirates,2020-01-02,,0.0,
@@ -1722,6 +1728,7 @@ ARE,Asia,United Arab Emirates,2020-10-23,120710.0,1578.0,474.0
 ARE,Asia,United Arab Emirates,2020-10-24,122273.0,1563.0,475.0
 ARE,Asia,United Arab Emirates,2020-10-25,123764.0,1491.0,475.0
 ARE,Asia,United Arab Emirates,2020-10-26,125123.0,1359.0,477.0
+ARE,Asia,United Arab Emirates,2020-10-27,126234.0,1111.0,480.0
 ARG,South America,Argentina,2020-03-04,1.0,1.0,
 ARG,South America,Argentina,2020-03-06,2.0,1.0,
 ARG,South America,Argentina,2020-03-07,8.0,6.0,
@@ -1958,6 +1965,7 @@ ARG,South America,Argentina,2020-10-23,1053637.0,16325.0,27957.0
 ARG,South America,Argentina,2020-10-24,1069355.0,15718.0,28338.0
 ARG,South America,Argentina,2020-10-25,1081323.0,11968.0,28613.0
 ARG,South America,Argentina,2020-10-26,1090576.0,9253.0,28896.0
+ARG,South America,Argentina,2020-10-27,1102288.0,11712.0,29301.0
 ARM,Asia,Armenia,2019-12-31,,0.0,
 ARM,Asia,Armenia,2020-01-01,,0.0,
 ARM,Asia,Armenia,2020-01-02,,0.0,
@@ -2259,6 +2267,7 @@ ARM,Asia,Armenia,2020-10-23,70836.0,2306.0,1131.0
 ARM,Asia,Armenia,2020-10-24,73310.0,2474.0,1145.0
 ARM,Asia,Armenia,2020-10-25,77837.0,4527.0,1180.0
 ARM,Asia,Armenia,2020-10-26,78810.0,973.0,1196.0
+ARM,Asia,Armenia,2020-10-27,80410.0,1600.0,1222.0
 ATG,North America,Antigua and Barbuda,2020-03-15,1.0,1.0,
 ATG,North America,Antigua and Barbuda,2020-03-21,1.0,0.0,
 ATG,North America,Antigua and Barbuda,2020-03-22,1.0,0.0,
@@ -2480,6 +2489,7 @@ ATG,North America,Antigua and Barbuda,2020-10-23,122.0,0.0,3.0
 ATG,North America,Antigua and Barbuda,2020-10-24,122.0,0.0,3.0
 ATG,North America,Antigua and Barbuda,2020-10-25,124.0,2.0,3.0
 ATG,North America,Antigua and Barbuda,2020-10-26,124.0,0.0,3.0
+ATG,North America,Antigua and Barbuda,2020-10-27,124.0,0.0,3.0
 AUS,Oceania,Australia,2019-12-31,,0.0,
 AUS,Oceania,Australia,2020-01-01,,0.0,
 AUS,Oceania,Australia,2020-01-02,,0.0,
@@ -2781,6 +2791,7 @@ AUS,Oceania,Australia,2020-10-23,27466.0,22.0,905.0
 AUS,Oceania,Australia,2020-10-24,27484.0,18.0,905.0
 AUS,Oceania,Australia,2020-10-25,27499.0,15.0,905.0
 AUS,Oceania,Australia,2020-10-26,27520.0,21.0,905.0
+AUS,Oceania,Australia,2020-10-27,27527.0,7.0,905.0
 AUT,Europe,Austria,2019-12-31,,0.0,
 AUT,Europe,Austria,2020-01-01,,0.0,
 AUT,Europe,Austria,2020-01-02,,0.0,
@@ -3082,6 +3093,7 @@ AUT,Europe,Austria,2020-10-23,73339.0,2570.0,957.0
 AUT,Europe,Austria,2020-10-24,76781.0,3442.0,972.0
 AUT,Europe,Austria,2020-10-25,79770.0,2989.0,978.0
 AUT,Europe,Austria,2020-10-26,82536.0,2766.0,984.0
+AUT,Europe,Austria,2020-10-27,85048.0,2512.0,988.0
 AZE,Asia,Azerbaijan,2019-12-31,,0.0,
 AZE,Asia,Azerbaijan,2020-01-01,,0.0,
 AZE,Asia,Azerbaijan,2020-01-02,,0.0,
@@ -3383,6 +3395,7 @@ AZE,Asia,Azerbaijan,2020-10-23,47418.0,825.0,648.0
 AZE,Asia,Azerbaijan,2020-10-24,48221.0,803.0,656.0
 AZE,Asia,Azerbaijan,2020-10-25,49013.0,792.0,664.0
 AZE,Asia,Azerbaijan,2020-10-26,49959.0,946.0,671.0
+AZE,Asia,Azerbaijan,2020-10-27,50486.0,527.0,679.0
 BDI,Africa,Burundi,2020-04-01,2.0,2.0,
 BDI,Africa,Burundi,2020-04-02,2.0,0.0,
 BDI,Africa,Burundi,2020-04-03,3.0,1.0,
@@ -3592,6 +3605,7 @@ BDI,Africa,Burundi,2020-10-23,551.0,1.0,1.0
 BDI,Africa,Burundi,2020-10-24,553.0,2.0,1.0
 BDI,Africa,Burundi,2020-10-25,555.0,2.0,1.0
 BDI,Africa,Burundi,2020-10-26,556.0,1.0,1.0
+BDI,Africa,Burundi,2020-10-27,557.0,1.0,1.0
 BEL,Europe,Belgium,2019-12-31,,0.0,
 BEL,Europe,Belgium,2020-01-01,,0.0,
 BEL,Europe,Belgium,2020-01-02,,0.0,
@@ -3881,16 +3895,17 @@ BEL,Europe,Belgium,2020-10-11,171876.0,4306.0,10189.0
 BEL,Europe,Belgium,2020-10-12,174284.0,2408.0,10214.0
 BEL,Europe,Belgium,2020-10-13,184002.0,9718.0,10250.0
 BEL,Europe,Belgium,2020-10-14,196555.0,12553.0,10284.0
-BEL,Europe,Belgium,2020-10-15,208793.0,12238.0,10325.0
-BEL,Europe,Belgium,2020-10-16,220457.0,11664.0,10360.0
-BEL,Europe,Belgium,2020-10-17,233551.0,13094.0,10395.0
-BEL,Europe,Belgium,2020-10-18,241281.0,7730.0,10418.0
-BEL,Europe,Belgium,2020-10-19,245557.0,4276.0,10449.0
-BEL,Europe,Belgium,2020-10-20,260588.0,15031.0,10498.0
-BEL,Europe,Belgium,2020-10-21,278805.0,18217.0,10545.0
-BEL,Europe,Belgium,2020-10-22,294126.0,15321.0,10600.0
-BEL,Europe,Belgium,2020-10-23,307896.0,13770.0,10653.0
-BEL,Europe,Belgium,2020-10-24,318945.0,11049.0,10733.0
+BEL,Europe,Belgium,2020-10-15,208794.0,12239.0,10325.0
+BEL,Europe,Belgium,2020-10-16,220460.0,11666.0,10360.0
+BEL,Europe,Belgium,2020-10-17,233580.0,13120.0,10395.0
+BEL,Europe,Belgium,2020-10-18,241314.0,7734.0,10418.0
+BEL,Europe,Belgium,2020-10-19,245590.0,4276.0,10449.0
+BEL,Europe,Belgium,2020-10-20,260622.0,15032.0,10498.0
+BEL,Europe,Belgium,2020-10-21,279196.0,18574.0,10545.0
+BEL,Europe,Belgium,2020-10-22,295299.0,16103.0,10600.0
+BEL,Europe,Belgium,2020-10-23,310384.0,15085.0,10653.0
+BEL,Europe,Belgium,2020-10-24,324944.0,14560.0,10738.0
+BEL,Europe,Belgium,2020-10-25,332131.0,7187.0,10808.0
 BEN,Africa,Benin,2020-03-17,1.0,1.0,
 BEN,Africa,Benin,2020-03-18,1.0,0.0,
 BEN,Africa,Benin,2020-03-19,1.0,0.0,
@@ -4115,6 +4130,7 @@ BEN,Africa,Benin,2020-10-23,2557.0,0.0,41.0
 BEN,Africa,Benin,2020-10-24,2557.0,0.0,41.0
 BEN,Africa,Benin,2020-10-25,2557.0,0.0,41.0
 BEN,Africa,Benin,2020-10-26,2557.0,0.0,41.0
+BEN,Africa,Benin,2020-10-27,2557.0,0.0,41.0
 BES,North America,Bonaire Sint Eustatius and Saba,2020-04-02,2.0,2.0,
 BES,North America,Bonaire Sint Eustatius and Saba,2020-04-03,2.0,0.0,
 BES,North America,Bonaire Sint Eustatius and Saba,2020-04-04,2.0,0.0,
@@ -4323,6 +4339,7 @@ BES,North America,Bonaire Sint Eustatius and Saba,2020-10-23,150.0,0.0,3.0
 BES,North America,Bonaire Sint Eustatius and Saba,2020-10-24,150.0,0.0,3.0
 BES,North America,Bonaire Sint Eustatius and Saba,2020-10-25,150.0,0.0,3.0
 BES,North America,Bonaire Sint Eustatius and Saba,2020-10-26,150.0,0.0,3.0
+BES,North America,Bonaire Sint Eustatius and Saba,2020-10-27,150.0,0.0,3.0
 BFA,Africa,Burkina Faso,2020-03-11,2.0,2.0,
 BFA,Africa,Burkina Faso,2020-03-12,2.0,0.0,
 BFA,Africa,Burkina Faso,2020-03-15,3.0,1.0,
@@ -4551,6 +4568,7 @@ BFA,Africa,Burkina Faso,2020-10-23,2421.0,15.0,65.0
 BFA,Africa,Burkina Faso,2020-10-24,2433.0,12.0,65.0
 BFA,Africa,Burkina Faso,2020-10-25,2444.0,11.0,65.0
 BFA,Africa,Burkina Faso,2020-10-26,2451.0,7.0,65.0
+BFA,Africa,Burkina Faso,2020-10-27,2459.0,8.0,67.0
 BGD,Asia,Bangladesh,2020-03-03,,,
 BGD,Asia,Bangladesh,2020-03-04,,,
 BGD,Asia,Bangladesh,2020-03-05,,,
@@ -4789,6 +4807,7 @@ BGD,Asia,Bangladesh,2020-10-23,394827.0,1696.0,5747.0
 BGD,Asia,Bangladesh,2020-10-24,396413.0,1586.0,5761.0
 BGD,Asia,Bangladesh,2020-10-25,397507.0,1094.0,5780.0
 BGD,Asia,Bangladesh,2020-10-26,398815.0,1308.0,5803.0
+BGD,Asia,Bangladesh,2020-10-27,400251.0,1436.0,5818.0
 BGR,Europe,Bulgaria,2020-03-08,2.0,2.0,
 BGR,Europe,Bulgaria,2020-03-09,4.0,2.0,
 BGR,Europe,Bulgaria,2020-03-12,7.0,3.0,1.0
@@ -5020,6 +5039,7 @@ BGR,Europe,Bulgaria,2020-10-23,34930.0,1595.0,1064.0
 BGR,Europe,Bulgaria,2020-10-24,36519.0,1589.0,1077.0
 BGR,Europe,Bulgaria,2020-10-25,37562.0,1043.0,1084.0
 BGR,Europe,Bulgaria,2020-10-26,37889.0,327.0,1094.0
+BGR,Europe,Bulgaria,2020-10-27,40132.0,2243.0,1136.0
 BHR,Asia,Bahrain,2019-12-31,,0.0,
 BHR,Asia,Bahrain,2020-01-01,,0.0,
 BHR,Asia,Bahrain,2020-01-02,,0.0,
@@ -5321,6 +5341,7 @@ BHR,Asia,Bahrain,2020-10-23,79211.0,304.0,308.0
 BHR,Asia,Bahrain,2020-10-24,79574.0,363.0,312.0
 BHR,Asia,Bahrain,2020-10-25,79975.0,401.0,312.0
 BHR,Asia,Bahrain,2020-10-26,80255.0,280.0,312.0
+BHR,Asia,Bahrain,2020-10-27,80533.0,278.0,316.0
 BHS,North America,Bahamas,2020-03-16,1.0,1.0,
 BHS,North America,Bahamas,2020-03-17,1.0,0.0,
 BHS,North America,Bahamas,2020-03-20,3.0,2.0,
@@ -5544,6 +5565,7 @@ BHS,North America,Bahamas,2020-10-23,6135.0,84.0,130.0
 BHS,North America,Bahamas,2020-10-24,6268.0,133.0,130.0
 BHS,North America,Bahamas,2020-10-25,6352.0,84.0,132.0
 BHS,North America,Bahamas,2020-10-26,6410.0,58.0,132.0
+BHS,North America,Bahamas,2020-10-27,6466.0,56.0,132.0
 BIH,Europe,Bosnia and Herzegovina,2020-03-06,2.0,2.0,
 BIH,Europe,Bosnia and Herzegovina,2020-03-12,3.0,1.0,
 BIH,Europe,Bosnia and Herzegovina,2020-03-13,3.0,0.0,
@@ -5774,6 +5796,7 @@ BIH,Europe,Bosnia and Herzegovina,2020-10-23,37314.0,999.0,1051.0
 BIH,Europe,Bosnia and Herzegovina,2020-10-24,38493.0,1179.0,1065.0
 BIH,Europe,Bosnia and Herzegovina,2020-10-25,39758.0,1265.0,1071.0
 BIH,Europe,Bosnia and Herzegovina,2020-10-26,40893.0,1135.0,1086.0
+BIH,Europe,Bosnia and Herzegovina,2020-10-27,41596.0,703.0,1104.0
 BLR,Europe,Belarus,2019-12-31,,0.0,
 BLR,Europe,Belarus,2020-01-01,,0.0,
 BLR,Europe,Belarus,2020-01-02,,0.0,
@@ -6075,6 +6098,7 @@ BLR,Europe,Belarus,2020-10-23,90380.0,738.0,945.0
 BLR,Europe,Belarus,2020-10-24,91167.0,787.0,945.0
 BLR,Europe,Belarus,2020-10-25,91978.0,811.0,953.0
 BLR,Europe,Belarus,2020-10-26,92823.0,845.0,957.0
+BLR,Europe,Belarus,2020-10-27,93707.0,884.0,961.0
 BLZ,North America,Belize,2020-03-24,1.0,1.0,
 BLZ,North America,Belize,2020-03-25,1.0,0.0,
 BLZ,North America,Belize,2020-03-26,2.0,1.0,
@@ -6292,6 +6316,7 @@ BLZ,North America,Belize,2020-10-23,2995.0,58.0,46.0
 BLZ,North America,Belize,2020-10-24,3050.0,55.0,46.0
 BLZ,North America,Belize,2020-10-25,3106.0,56.0,48.0
 BLZ,North America,Belize,2020-10-26,3145.0,39.0,50.0
+BLZ,North America,Belize,2020-10-27,3200.0,55.0,51.0
 BMU,North America,Bermuda,2020-03-20,2.0,2.0,
 BMU,North America,Bermuda,2020-03-21,2.0,0.0,
 BMU,North America,Bermuda,2020-03-22,2.0,0.0,
@@ -6513,6 +6538,7 @@ BMU,North America,Bermuda,2020-10-23,188.0,0.0,9.0
 BMU,North America,Bermuda,2020-10-24,190.0,2.0,9.0
 BMU,North America,Bermuda,2020-10-25,191.0,1.0,9.0
 BMU,North America,Bermuda,2020-10-26,191.0,0.0,9.0
+BMU,North America,Bermuda,2020-10-27,193.0,2.0,9.0
 BOL,South America,Bolivia,2020-03-12,2.0,2.0,
 BOL,South America,Bolivia,2020-03-13,3.0,1.0,
 BOL,South America,Bolivia,2020-03-14,10.0,7.0,
@@ -6742,6 +6768,7 @@ BOL,South America,Bolivia,2020-10-23,140445.0,217.0,8584.0
 BOL,South America,Bolivia,2020-10-24,140612.0,167.0,8608.0
 BOL,South America,Bolivia,2020-10-25,140779.0,167.0,8627.0
 BOL,South America,Bolivia,2020-10-26,140853.0,74.0,8645.0
+BOL,South America,Bolivia,2020-10-27,140952.0,99.0,8658.0
 BRA,South America,Brazil,2019-12-31,,0.0,
 BRA,South America,Brazil,2020-01-01,,0.0,
 BRA,South America,Brazil,2020-01-02,,0.0,
@@ -7043,6 +7070,7 @@ BRA,South America,Brazil,2020-10-23,5323630.0,24858.0,155900.0
 BRA,South America,Brazil,2020-10-24,5353656.0,30026.0,156471.0
 BRA,South America,Brazil,2020-10-25,5380635.0,26979.0,156903.0
 BRA,South America,Brazil,2020-10-26,5394128.0,13493.0,157134.0
+BRA,South America,Brazil,2020-10-27,5409854.0,15726.0,157397.0
 BRB,North America,Barbados,2020-03-18,1.0,1.0,
 BRB,North America,Barbados,2020-03-19,1.0,0.0,
 BRB,North America,Barbados,2020-03-20,2.0,1.0,
@@ -7266,6 +7294,7 @@ BRB,North America,Barbados,2020-10-23,224.0,2.0,7.0
 BRB,North America,Barbados,2020-10-24,227.0,3.0,7.0
 BRB,North America,Barbados,2020-10-25,227.0,0.0,7.0
 BRB,North America,Barbados,2020-10-26,227.0,0.0,7.0
+BRB,North America,Barbados,2020-10-27,233.0,6.0,7.0
 BRN,Asia,Brunei,2020-03-10,1.0,1.0,
 BRN,Asia,Brunei,2020-03-12,11.0,10.0,
 BRN,Asia,Brunei,2020-03-13,25.0,14.0,
@@ -7496,6 +7525,7 @@ BRN,Asia,Brunei,2020-10-23,148.0,1.0,3.0
 BRN,Asia,Brunei,2020-10-24,148.0,0.0,3.0
 BRN,Asia,Brunei,2020-10-25,148.0,0.0,3.0
 BRN,Asia,Brunei,2020-10-26,148.0,0.0,3.0
+BRN,Asia,Brunei,2020-10-27,148.0,0.0,3.0
 BTN,Asia,Bhutan,2020-03-06,1.0,1.0,
 BTN,Asia,Bhutan,2020-03-12,,,
 BTN,Asia,Bhutan,2020-03-13,1.0,0.0,
@@ -7726,6 +7756,7 @@ BTN,Asia,Bhutan,2020-10-23,336.0,4.0,
 BTN,Asia,Bhutan,2020-10-24,336.0,0.0,
 BTN,Asia,Bhutan,2020-10-25,340.0,4.0,
 BTN,Asia,Bhutan,2020-10-26,342.0,2.0,
+BTN,Asia,Bhutan,2020-10-27,342.0,0.0,
 BWA,Africa,Botswana,2020-04-01,3.0,3.0,
 BWA,Africa,Botswana,2020-04-02,4.0,1.0,1.0
 BWA,Africa,Botswana,2020-04-03,4.0,0.0,1.0
@@ -7935,6 +7966,7 @@ BWA,Africa,Botswana,2020-10-23,5923.0,314.0,21.0
 BWA,Africa,Botswana,2020-10-24,5923.0,0.0,21.0
 BWA,Africa,Botswana,2020-10-25,5923.0,0.0,21.0
 BWA,Africa,Botswana,2020-10-26,5923.0,0.0,21.0
+BWA,Africa,Botswana,2020-10-27,6283.0,360.0,21.0
 CAF,Africa,Central African Republic,2020-03-16,1.0,1.0,
 CAF,Africa,Central African Republic,2020-03-17,1.0,0.0,
 CAF,Africa,Central African Republic,2020-03-18,1.0,0.0,
@@ -8160,6 +8192,7 @@ CAF,Africa,Central African Republic,2020-10-23,4862.0,4.0,62.0
 CAF,Africa,Central African Republic,2020-10-24,4862.0,0.0,62.0
 CAF,Africa,Central African Republic,2020-10-25,4862.0,0.0,62.0
 CAF,Africa,Central African Republic,2020-10-26,4862.0,0.0,62.0
+CAF,Africa,Central African Republic,2020-10-27,4863.0,1.0,62.0
 CAN,North America,Canada,2019-12-31,,0.0,
 CAN,North America,Canada,2020-01-01,,0.0,
 CAN,North America,Canada,2020-01-02,,0.0,
@@ -8461,6 +8494,7 @@ CAN,North America,Canada,2020-10-23,209148.0,2788.0,9862.0
 CAN,North America,Canada,2020-10-24,211732.0,2584.0,9888.0
 CAN,North America,Canada,2020-10-25,213959.0,2227.0,9922.0
 CAN,North America,Canada,2020-10-26,216104.0,2145.0,9946.0
+CAN,North America,Canada,2020-10-27,220213.0,4109.0,9973.0
 CHE,Europe,Switzerland,2019-12-31,,0.0,
 CHE,Europe,Switzerland,2020-01-01,,0.0,
 CHE,Europe,Switzerland,2020-01-02,,0.0,
@@ -8762,6 +8796,7 @@ CHE,Europe,Switzerland,2020-10-23,96731.0,4968.0,1866.0
 CHE,Europe,Switzerland,2020-10-24,103323.0,6592.0,1876.0
 CHE,Europe,Switzerland,2020-10-25,103323.0,0.0,1876.0
 CHE,Europe,Switzerland,2020-10-26,103323.0,0.0,1876.0
+CHE,Europe,Switzerland,2020-10-27,120680.0,17357.0,1913.0
 CHL,South America,Chile,2020-03-04,1.0,1.0,
 CHL,South America,Chile,2020-03-05,3.0,2.0,
 CHL,South America,Chile,2020-03-06,4.0,1.0,
@@ -8998,6 +9033,7 @@ CHL,South America,Chile,2020-10-23,497131.0,1494.0,13792.0
 CHL,South America,Chile,2020-10-24,498906.0,1775.0,13844.0
 CHL,South America,Chile,2020-10-25,500542.0,1636.0,13892.0
 CHL,South America,Chile,2020-10-26,502063.0,1521.0,13944.0
+CHL,South America,Chile,2020-10-27,503598.0,1535.0,14003.0
 CHN,Asia,China,2019-12-31,27.0,27.0,
 CHN,Asia,China,2020-01-01,27.0,0.0,
 CHN,Asia,China,2020-01-02,27.0,0.0,
@@ -9299,6 +9335,7 @@ CHN,Asia,China,2020-10-23,91073.0,29.0,4739.0
 CHN,Asia,China,2020-10-24,91106.0,33.0,4739.0
 CHN,Asia,China,2020-10-25,91125.0,19.0,4739.0
 CHN,Asia,China,2020-10-26,91151.0,26.0,4739.0
+CHN,Asia,China,2020-10-27,91175.0,24.0,4739.0
 CIV,Africa,Cote d'Ivoire,2020-03-12,1.0,1.0,
 CIV,Africa,Cote d'Ivoire,2020-03-15,4.0,3.0,
 CIV,Africa,Cote d'Ivoire,2020-03-16,4.0,0.0,
@@ -9526,6 +9563,7 @@ CIV,Africa,Cote d'Ivoire,2020-10-23,20390.0,27.0,121.0
 CIV,Africa,Cote d'Ivoire,2020-10-24,20405.0,15.0,121.0
 CIV,Africa,Cote d'Ivoire,2020-10-25,20429.0,24.0,121.0
 CIV,Africa,Cote d'Ivoire,2020-10-26,20470.0,41.0,122.0
+CIV,Africa,Cote d'Ivoire,2020-10-27,20486.0,16.0,122.0
 CMR,Africa,Cameroon,2020-03-07,1.0,1.0,
 CMR,Africa,Cameroon,2020-03-09,2.0,1.0,
 CMR,Africa,Cameroon,2020-03-13,,,
@@ -9756,6 +9794,7 @@ CMR,Africa,Cameroon,2020-10-23,21570.0,0.0,425.0
 CMR,Africa,Cameroon,2020-10-24,21570.0,0.0,425.0
 CMR,Africa,Cameroon,2020-10-25,21570.0,0.0,425.0
 CMR,Africa,Cameroon,2020-10-26,21570.0,0.0,425.0
+CMR,Africa,Cameroon,2020-10-27,21793.0,223.0,426.0
 COD,Africa,Democratic Republic of Congo,2020-03-11,1.0,1.0,
 COD,Africa,Democratic Republic of Congo,2020-03-14,2.0,1.0,
 COD,Africa,Democratic Republic of Congo,2020-03-15,2.0,0.0,
@@ -9984,6 +10023,7 @@ COD,Africa,Democratic Republic of Congo,2020-10-23,11096.0,31.0,303.0
 COD,Africa,Democratic Republic of Congo,2020-10-24,11121.0,25.0,303.0
 COD,Africa,Democratic Republic of Congo,2020-10-25,11142.0,21.0,304.0
 COD,Africa,Democratic Republic of Congo,2020-10-26,11142.0,0.0,304.0
+COD,Africa,Democratic Republic of Congo,2020-10-27,11173.0,31.0,304.0
 COG,Africa,Congo,2020-03-16,1.0,1.0,
 COG,Africa,Congo,2020-03-17,1.0,0.0,
 COG,Africa,Congo,2020-03-18,1.0,0.0,
@@ -10209,6 +10249,7 @@ COG,Africa,Congo,2020-10-23,5156.0,0.0,92.0
 COG,Africa,Congo,2020-10-24,5156.0,0.0,92.0
 COG,Africa,Congo,2020-10-25,5253.0,97.0,92.0
 COG,Africa,Congo,2020-10-26,5253.0,0.0,92.0
+COG,Africa,Congo,2020-10-27,5253.0,0.0,92.0
 COL,South America,Colombia,2020-03-05,,,
 COL,South America,Colombia,2020-03-06,,,
 COL,South America,Colombia,2020-03-07,1.0,1.0,
@@ -10445,6 +10486,7 @@ COL,South America,Colombia,2020-10-23,990270.0,8570.0,29636.0
 COL,South America,Colombia,2020-10-24,998942.0,8672.0,29802.0
 COL,South America,Colombia,2020-10-25,1007711.0,8769.0,30000.0
 COL,South America,Colombia,2020-10-26,1015885.0,8174.0,30154.0
+COL,South America,Colombia,2020-10-27,1025052.0,9167.0,30348.0
 COM,Africa,Comoros,2020-05-02,1.0,1.0,
 COM,Africa,Comoros,2020-05-03,1.0,0.0,
 COM,Africa,Comoros,2020-05-04,3.0,2.0,
@@ -10623,6 +10665,7 @@ COM,Africa,Comoros,2020-10-23,517.0,13.0,7.0
 COM,Africa,Comoros,2020-10-24,517.0,0.0,7.0
 COM,Africa,Comoros,2020-10-25,517.0,0.0,7.0
 COM,Africa,Comoros,2020-10-26,517.0,0.0,7.0
+COM,Africa,Comoros,2020-10-27,517.0,0.0,7.0
 CPV,Africa,Cape Verde,2020-03-21,2.0,2.0,
 CPV,Africa,Cape Verde,2020-03-22,3.0,1.0,
 CPV,Africa,Cape Verde,2020-03-23,3.0,0.0,
@@ -10843,6 +10886,7 @@ CPV,Africa,Cape Verde,2020-10-23,8122.0,89.0,91.0
 CPV,Africa,Cape Verde,2020-10-24,8198.0,76.0,94.0
 CPV,Africa,Cape Verde,2020-10-25,8322.0,124.0,94.0
 CPV,Africa,Cape Verde,2020-10-26,8396.0,74.0,94.0
+CPV,Africa,Cape Verde,2020-10-27,8423.0,27.0,94.0
 CRI,North America,Costa Rica,2020-03-07,1.0,1.0,
 CRI,North America,Costa Rica,2020-03-09,5.0,4.0,
 CRI,North America,Costa Rica,2020-03-10,9.0,4.0,
@@ -11076,6 +11120,7 @@ CRI,North America,Costa Rica,2020-10-23,100616.0,1191.0,1251.0
 CRI,North America,Costa Rica,2020-10-24,101826.0,1210.0,1265.0
 CRI,North America,Costa Rica,2020-10-25,103088.0,1262.0,1282.0
 CRI,North America,Costa Rica,2020-10-26,103088.0,0.0,1282.0
+CRI,North America,Costa Rica,2020-10-27,104460.0,1372.0,1312.0
 CUB,North America,Cuba,2020-03-12,3.0,3.0,
 CUB,North America,Cuba,2020-03-14,4.0,1.0,
 CUB,North America,Cuba,2020-03-15,4.0,0.0,
@@ -11302,6 +11347,7 @@ CUB,North America,Cuba,2020-10-23,6421.0,53.0,128.0
 CUB,North America,Cuba,2020-10-24,6479.0,58.0,128.0
 CUB,North America,Cuba,2020-10-25,6534.0,55.0,128.0
 CUB,North America,Cuba,2020-10-26,6566.0,32.0,128.0
+CUB,North America,Cuba,2020-10-27,6595.0,29.0,128.0
 CUW,North America,Curacao,2020-03-13,1.0,1.0,
 CUW,North America,Curacao,2020-03-19,,,
 CUW,North America,Curacao,2020-03-20,3.0,2.0,
@@ -11525,6 +11571,7 @@ CUW,North America,Curacao,2020-10-23,804.0,19.0,1.0
 CUW,North America,Curacao,2020-10-24,818.0,14.0,1.0
 CUW,North America,Curacao,2020-10-25,837.0,19.0,1.0
 CUW,North America,Curacao,2020-10-26,858.0,21.0,1.0
+CUW,North America,Curacao,2020-10-27,873.0,15.0,1.0
 CYM,North America,Cayman Islands,2020-03-20,1.0,1.0,
 CYM,North America,Cayman Islands,2020-03-21,3.0,2.0,1.0
 CYM,North America,Cayman Islands,2020-03-22,3.0,0.0,1.0
@@ -11746,6 +11793,7 @@ CYM,North America,Cayman Islands,2020-10-23,236.0,1.0,1.0
 CYM,North America,Cayman Islands,2020-10-24,239.0,3.0,1.0
 CYM,North America,Cayman Islands,2020-10-25,239.0,0.0,1.0
 CYM,North America,Cayman Islands,2020-10-26,239.0,0.0,1.0
+CYM,North America,Cayman Islands,2020-10-27,239.0,0.0,1.0
 CYP,Europe,Cyprus,2020-03-10,2.0,2.0,
 CYP,Europe,Cyprus,2020-03-12,6.0,4.0,
 CYP,Europe,Cyprus,2020-03-14,14.0,8.0,
@@ -11975,6 +12023,7 @@ CYP,Europe,Cyprus,2020-10-23,3154.0,188.0,25.0
 CYP,Europe,Cyprus,2020-10-24,3314.0,160.0,25.0
 CYP,Europe,Cyprus,2020-10-25,3444.0,130.0,25.0
 CYP,Europe,Cyprus,2020-10-26,3545.0,101.0,25.0
+CYP,Europe,Cyprus,2020-10-27,3636.0,91.0,25.0
 CZE,Europe,Czech Republic,2019-12-31,,0.0,
 CZE,Europe,Czech Republic,2020-01-01,,0.0,
 CZE,Europe,Czech Republic,2020-01-02,,0.0,
@@ -12276,6 +12325,7 @@ CZE,Europe,Czech Republic,2020-10-23,223065.0,14150.0,1845.0
 CZE,Europe,Czech Republic,2020-10-24,238323.0,15258.0,1971.0
 CZE,Europe,Czech Republic,2020-10-25,250797.0,12474.0,2077.0
 CZE,Europe,Czech Republic,2020-10-26,258097.0,7300.0,2201.0
+CZE,Europe,Czech Republic,2020-10-27,268370.0,10273.0,2365.0
 DEU,Europe,Germany,2019-12-31,,0.0,
 DEU,Europe,Germany,2020-01-01,,0.0,
 DEU,Europe,Germany,2020-01-02,,0.0,
@@ -12577,6 +12627,7 @@ DEU,Europe,Germany,2020-10-23,403291.0,11242.0,9954.0
 DEU,Europe,Germany,2020-10-24,418005.0,14714.0,10003.0
 DEU,Europe,Germany,2020-10-25,429181.0,11176.0,10032.0
 DEU,Europe,Germany,2020-10-26,437866.0,8685.0,10056.0
+DEU,Europe,Germany,2020-10-27,449275.0,11409.0,10098.0
 DJI,Africa,Djibouti,2020-03-19,1.0,1.0,
 DJI,Africa,Djibouti,2020-03-20,1.0,0.0,
 DJI,Africa,Djibouti,2020-03-21,1.0,0.0,
@@ -12799,6 +12850,7 @@ DJI,Africa,Djibouti,2020-10-23,5522.0,10.0,61.0
 DJI,Africa,Djibouti,2020-10-24,5528.0,6.0,61.0
 DJI,Africa,Djibouti,2020-10-25,5530.0,2.0,61.0
 DJI,Africa,Djibouti,2020-10-26,5536.0,6.0,61.0
+DJI,Africa,Djibouti,2020-10-27,5541.0,5.0,61.0
 DMA,North America,Dominica,2020-03-23,1.0,1.0,
 DMA,North America,Dominica,2020-03-24,1.0,0.0,
 DMA,North America,Dominica,2020-03-25,2.0,1.0,
@@ -13017,6 +13069,7 @@ DMA,North America,Dominica,2020-10-23,33.0,0.0,
 DMA,North America,Dominica,2020-10-24,37.0,4.0,
 DMA,North America,Dominica,2020-10-25,37.0,0.0,
 DMA,North America,Dominica,2020-10-26,38.0,1.0,
+DMA,North America,Dominica,2020-10-27,38.0,0.0,
 DNK,Europe,Denmark,2019-12-31,,0.0,
 DNK,Europe,Denmark,2020-01-01,,0.0,
 DNK,Europe,Denmark,2020-01-02,,0.0,
@@ -13318,6 +13371,7 @@ DNK,Europe,Denmark,2020-10-23,37763.0,760.0,694.0
 DNK,Europe,Denmark,2020-10-24,38622.0,859.0,697.0
 DNK,Europe,Denmark,2020-10-25,39411.0,789.0,700.0
 DNK,Europe,Denmark,2020-10-26,40356.0,945.0,702.0
+DNK,Europe,Denmark,2020-10-27,41412.0,1056.0,708.0
 DOM,North America,Dominican Republic,2019-12-31,,0.0,
 DOM,North America,Dominican Republic,2020-01-01,,0.0,
 DOM,North America,Dominican Republic,2020-01-02,,0.0,
@@ -13619,6 +13673,7 @@ DOM,North America,Dominican Republic,2020-10-23,122873.0,475.0,2212.0
 DOM,North America,Dominican Republic,2020-10-24,123384.0,511.0,2214.0
 DOM,North America,Dominican Republic,2020-10-25,124018.0,634.0,2220.0
 DOM,North America,Dominican Republic,2020-10-26,124527.0,509.0,2223.0
+DOM,North America,Dominican Republic,2020-10-27,124843.0,316.0,2225.0
 DZA,Africa,Algeria,2019-12-31,,0.0,
 DZA,Africa,Algeria,2020-01-01,,0.0,
 DZA,Africa,Algeria,2020-01-02,,0.0,
@@ -13920,6 +13975,7 @@ DZA,Africa,Algeria,2020-10-23,55357.0,266.0,1888.0
 DZA,Africa,Algeria,2020-10-24,55630.0,273.0,1897.0
 DZA,Africa,Algeria,2020-10-25,55880.0,250.0,1907.0
 DZA,Africa,Algeria,2020-10-26,56143.0,263.0,1914.0
+DZA,Africa,Algeria,2020-10-27,56419.0,276.0,1922.0
 ECU,South America,Ecuador,2019-12-31,,0.0,
 ECU,South America,Ecuador,2020-01-01,,0.0,
 ECU,South America,Ecuador,2020-01-02,,0.0,
@@ -14221,6 +14277,7 @@ ECU,South America,Ecuador,2020-10-23,156451.0,826.0,12500.0
 ECU,South America,Ecuador,2020-10-24,158270.0,1819.0,12528.0
 ECU,South America,Ecuador,2020-10-25,159614.0,1344.0,12542.0
 ECU,South America,Ecuador,2020-10-26,161635.0,2021.0,12553.0
+ECU,South America,Ecuador,2020-10-27,162178.0,543.0,12573.0
 EGY,Africa,Egypt,2019-12-31,,0.0,
 EGY,Africa,Egypt,2020-01-01,,0.0,
 EGY,Africa,Egypt,2020-01-02,,0.0,
@@ -14522,6 +14579,7 @@ EGY,Africa,Egypt,2020-10-23,106060.0,177.0,6166.0
 EGY,Africa,Egypt,2020-10-24,106230.0,170.0,6176.0
 EGY,Africa,Egypt,2020-10-25,106397.0,167.0,6187.0
 EGY,Africa,Egypt,2020-10-26,106540.0,143.0,6199.0
+EGY,Africa,Egypt,2020-10-27,106707.0,167.0,6211.0
 ERI,Africa,Eritrea,2020-03-22,1.0,1.0,
 ERI,Africa,Eritrea,2020-03-23,1.0,0.0,
 ERI,Africa,Eritrea,2020-03-24,1.0,0.0,
@@ -14741,6 +14799,7 @@ ERI,Africa,Eritrea,2020-10-23,457.0,5.0,
 ERI,Africa,Eritrea,2020-10-24,461.0,4.0,
 ERI,Africa,Eritrea,2020-10-25,461.0,0.0,
 ERI,Africa,Eritrea,2020-10-26,461.0,0.0,
+ERI,Africa,Eritrea,2020-10-27,461.0,0.0,
 ESH,Africa,Western Sahara,2020-04-26,6.0,6.0,
 ESH,Africa,Western Sahara,2020-04-27,6.0,0.0,
 ESH,Africa,Western Sahara,2020-04-28,6.0,0.0,
@@ -14925,6 +14984,7 @@ ESH,Africa,Western Sahara,2020-10-23,766.0,0.0,1.0
 ESH,Africa,Western Sahara,2020-10-24,766.0,0.0,1.0
 ESH,Africa,Western Sahara,2020-10-25,766.0,0.0,1.0
 ESH,Africa,Western Sahara,2020-10-26,766.0,0.0,1.0
+ESH,Africa,Western Sahara,2020-10-27,766.0,0.0,1.0
 ESP,Europe,Spain,2019-12-31,,0.0,
 ESP,Europe,Spain,2020-01-01,,0.0,
 ESP,Europe,Spain,2020-01-02,,0.0,
@@ -15225,6 +15285,7 @@ ESP,Europe,Spain,2020-10-22,1026281.0,20986.0,34521.0
 ESP,Europe,Spain,2020-10-23,1046132.0,19851.0,34752.0
 ESP,Europe,Spain,2020-10-24,1046132.0,0.0,34752.0
 ESP,Europe,Spain,2020-10-25,1046132.0,0.0,34752.0
+ESP,Europe,Spain,2020-10-26,1098320.0,52188.0,35031.0
 EST,Europe,Estonia,2019-12-31,,0.0,
 EST,Europe,Estonia,2020-01-01,,0.0,
 EST,Europe,Estonia,2020-01-02,,0.0,
@@ -15526,6 +15587,7 @@ EST,Europe,Estonia,2020-10-23,4247.0,76.0,71.0
 EST,Europe,Estonia,2020-10-24,4300.0,53.0,73.0
 EST,Europe,Estonia,2020-10-25,4351.0,51.0,73.0
 EST,Europe,Estonia,2020-10-26,4411.0,60.0,73.0
+EST,Europe,Estonia,2020-10-27,4428.0,17.0,73.0
 ETH,Africa,Ethiopia,2020-03-13,,,
 ETH,Africa,Ethiopia,2020-03-14,1.0,1.0,
 ETH,Africa,Ethiopia,2020-03-15,1.0,0.0,
@@ -15754,6 +15816,7 @@ ETH,Africa,Ethiopia,2020-10-23,91693.0,575.0,1396.0
 ETH,Africa,Ethiopia,2020-10-24,92229.0,536.0,1400.0
 ETH,Africa,Ethiopia,2020-10-25,92858.0,629.0,1419.0
 ETH,Africa,Ethiopia,2020-10-26,93343.0,485.0,1426.0
+ETH,Africa,Ethiopia,2020-10-27,93707.0,364.0,1437.0
 FIN,Europe,Finland,2019-12-31,,0.0,
 FIN,Europe,Finland,2020-01-01,,0.0,
 FIN,Europe,Finland,2020-01-02,,0.0,
@@ -16055,6 +16118,7 @@ FIN,Europe,Finland,2020-10-23,14255.0,184.0,353.0
 FIN,Europe,Finland,2020-10-24,14474.0,219.0,353.0
 FIN,Europe,Finland,2020-10-25,14652.0,178.0,353.0
 FIN,Europe,Finland,2020-10-26,14848.0,196.0,353.0
+FIN,Europe,Finland,2020-10-27,14970.0,122.0,354.0
 FJI,Oceania,Fiji,2020-01-30,,,
 FJI,Oceania,Fiji,2020-01-31,,,
 FJI,Oceania,Fiji,2020-02-01,,,
@@ -16326,6 +16390,7 @@ FJI,Oceania,Fiji,2020-10-23,33.0,0.0,2.0
 FJI,Oceania,Fiji,2020-10-24,33.0,0.0,2.0
 FJI,Oceania,Fiji,2020-10-25,33.0,0.0,2.0
 FJI,Oceania,Fiji,2020-10-26,33.0,0.0,2.0
+FJI,Oceania,Fiji,2020-10-27,33.0,0.0,2.0
 FLK,South America,Falkland Islands,2020-04-04,1.0,1.0,
 FLK,South America,Falkland Islands,2020-04-05,1.0,0.0,
 FLK,South America,Falkland Islands,2020-04-06,2.0,1.0,
@@ -16532,6 +16597,7 @@ FLK,South America,Falkland Islands,2020-10-23,13.0,0.0,
 FLK,South America,Falkland Islands,2020-10-24,13.0,0.0,
 FLK,South America,Falkland Islands,2020-10-25,13.0,0.0,
 FLK,South America,Falkland Islands,2020-10-26,13.0,0.0,
+FLK,South America,Falkland Islands,2020-10-27,13.0,0.0,
 FRA,Europe,France,2019-12-31,,0.0,
 FRA,Europe,France,2020-01-01,,0.0,
 FRA,Europe,France,2020-01-02,,0.0,
@@ -16833,6 +16899,7 @@ FRA,Europe,France,2020-10-23,999043.0,41622.0,34210.0
 FRA,Europe,France,2020-10-24,1041075.0,42032.0,34508.0
 FRA,Europe,France,2020-10-25,1086497.0,45422.0,34645.0
 FRA,Europe,France,2020-10-26,1138507.0,52010.0,34761.0
+FRA,Europe,France,2020-10-27,1165278.0,26771.0,35018.0
 FRO,Europe,Faeroe Islands,2020-03-06,1.0,1.0,
 FRO,Europe,Faeroe Islands,2020-03-07,2.0,1.0,
 FRO,Europe,Faeroe Islands,2020-03-08,3.0,1.0,
@@ -17068,6 +17135,7 @@ FRO,Europe,Faeroe Islands,2020-10-23,490.0,2.0,
 FRO,Europe,Faeroe Islands,2020-10-24,490.0,0.0,
 FRO,Europe,Faeroe Islands,2020-10-25,490.0,0.0,
 FRO,Europe,Faeroe Islands,2020-10-26,490.0,0.0,
+FRO,Europe,Faeroe Islands,2020-10-27,490.0,0.0,
 GAB,Africa,Gabon,2020-03-13,1.0,1.0,
 GAB,Africa,Gabon,2020-03-15,1.0,0.0,
 GAB,Africa,Gabon,2020-03-16,1.0,0.0,
@@ -17295,6 +17363,7 @@ GAB,Africa,Gabon,2020-10-23,8901.0,0.0,54.0
 GAB,Africa,Gabon,2020-10-24,8919.0,18.0,54.0
 GAB,Africa,Gabon,2020-10-25,8919.0,0.0,54.0
 GAB,Africa,Gabon,2020-10-26,8919.0,0.0,54.0
+GAB,Africa,Gabon,2020-10-27,8937.0,18.0,54.0
 GBR,Europe,United Kingdom,2019-12-31,,0.0,
 GBR,Europe,United Kingdom,2020-01-01,,0.0,
 GBR,Europe,United Kingdom,2020-01-02,,0.0,
@@ -17596,6 +17665,7 @@ GBR,Europe,United Kingdom,2020-10-23,810467.0,21238.0,44347.0
 GBR,Europe,United Kingdom,2020-10-24,830998.0,20531.0,44571.0
 GBR,Europe,United Kingdom,2020-10-25,854010.0,23012.0,44745.0
 GBR,Europe,United Kingdom,2020-10-26,873800.0,19790.0,44896.0
+GBR,Europe,United Kingdom,2020-10-27,894690.0,20890.0,44998.0
 GEO,Asia,Georgia,2019-12-31,,0.0,
 GEO,Asia,Georgia,2020-01-01,,0.0,
 GEO,Asia,Georgia,2020-01-02,,0.0,
@@ -17897,6 +17967,7 @@ GEO,Asia,Georgia,2020-10-23,22803.0,1595.0,178.0
 GEO,Asia,Georgia,2020-10-24,24562.0,1759.0,183.0
 GEO,Asia,Georgia,2020-10-25,28431.0,3869.0,201.0
 GEO,Asia,Georgia,2020-10-26,30303.0,1872.0,215.0
+GEO,Asia,Georgia,2020-10-27,32127.0,1824.0,238.0
 GGY,Europe,Guernsey,2020-03-20,1.0,1.0,
 GGY,Europe,Guernsey,2020-03-21,1.0,0.0,
 GGY,Europe,Guernsey,2020-03-22,1.0,0.0,
@@ -18118,6 +18189,7 @@ GGY,Europe,Guernsey,2020-10-23,262.0,2.0,13.0
 GGY,Europe,Guernsey,2020-10-24,265.0,3.0,13.0
 GGY,Europe,Guernsey,2020-10-25,265.0,0.0,13.0
 GGY,Europe,Guernsey,2020-10-26,265.0,0.0,13.0
+GGY,Europe,Guernsey,2020-10-27,266.0,1.0,13.0
 GHA,Africa,Ghana,2020-03-13,2.0,2.0,
 GHA,Africa,Ghana,2020-03-15,2.0,0.0,
 GHA,Africa,Ghana,2020-03-16,2.0,0.0,
@@ -18345,6 +18417,7 @@ GHA,Africa,Ghana,2020-10-23,47538.0,77.0,312.0
 GHA,Africa,Ghana,2020-10-24,47601.0,63.0,314.0
 GHA,Africa,Ghana,2020-10-25,47690.0,89.0,316.0
 GHA,Africa,Ghana,2020-10-26,47690.0,0.0,316.0
+GHA,Africa,Ghana,2020-10-27,47775.0,85.0,316.0
 GIB,Europe,Gibraltar,2020-03-20,10.0,10.0,
 GIB,Europe,Gibraltar,2020-03-21,10.0,0.0,
 GIB,Europe,Gibraltar,2020-03-22,10.0,0.0,
@@ -18566,6 +18639,7 @@ GIB,Europe,Gibraltar,2020-10-23,630.0,9.0,
 GIB,Europe,Gibraltar,2020-10-24,641.0,11.0,
 GIB,Europe,Gibraltar,2020-10-25,660.0,19.0,
 GIB,Europe,Gibraltar,2020-10-26,667.0,7.0,
+GIB,Europe,Gibraltar,2020-10-27,670.0,3.0,
 GIN,Africa,Guinea,2020-03-14,1.0,1.0,
 GIN,Africa,Guinea,2020-03-15,1.0,0.0,
 GIN,Africa,Guinea,2020-03-17,1.0,0.0,
@@ -18792,6 +18866,7 @@ GIN,Africa,Guinea,2020-10-23,11635.0,0.0,71.0
 GIN,Africa,Guinea,2020-10-24,11635.0,0.0,71.0
 GIN,Africa,Guinea,2020-10-25,11669.0,34.0,71.0
 GIN,Africa,Guinea,2020-10-26,11669.0,0.0,71.0
+GIN,Africa,Guinea,2020-10-27,11669.0,0.0,71.0
 GMB,Africa,Gambia,2020-03-18,1.0,1.0,
 GMB,Africa,Gambia,2020-03-19,1.0,0.0,
 GMB,Africa,Gambia,2020-03-20,1.0,0.0,
@@ -19015,6 +19090,7 @@ GMB,Africa,Gambia,2020-10-23,3659.0,2.0,119.0
 GMB,Africa,Gambia,2020-10-24,3659.0,0.0,119.0
 GMB,Africa,Gambia,2020-10-25,3659.0,0.0,119.0
 GMB,Africa,Gambia,2020-10-26,3660.0,1.0,119.0
+GMB,Africa,Gambia,2020-10-27,3665.0,5.0,119.0
 GNB,Africa,Guinea-Bissau,2020-03-27,2.0,2.0,
 GNB,Africa,Guinea-Bissau,2020-03-28,2.0,0.0,
 GNB,Africa,Guinea-Bissau,2020-03-29,2.0,0.0,
@@ -19229,6 +19305,7 @@ GNB,Africa,Guinea-Bissau,2020-10-23,2403.0,0.0,41.0
 GNB,Africa,Guinea-Bissau,2020-10-24,2403.0,0.0,41.0
 GNB,Africa,Guinea-Bissau,2020-10-25,2403.0,0.0,41.0
 GNB,Africa,Guinea-Bissau,2020-10-26,2403.0,0.0,41.0
+GNB,Africa,Guinea-Bissau,2020-10-27,2403.0,0.0,41.0
 GNQ,Africa,Equatorial Guinea,2020-03-15,1.0,1.0,
 GNQ,Africa,Equatorial Guinea,2020-03-16,1.0,0.0,
 GNQ,Africa,Equatorial Guinea,2020-03-17,1.0,0.0,
@@ -19455,6 +19532,7 @@ GNQ,Africa,Equatorial Guinea,2020-10-23,5074.0,0.0,83.0
 GNQ,Africa,Equatorial Guinea,2020-10-24,5079.0,5.0,83.0
 GNQ,Africa,Equatorial Guinea,2020-10-25,5079.0,0.0,83.0
 GNQ,Africa,Equatorial Guinea,2020-10-26,5079.0,0.0,83.0
+GNQ,Africa,Equatorial Guinea,2020-10-27,5083.0,4.0,83.0
 GRC,Europe,Greece,2019-12-31,,0.0,
 GRC,Europe,Greece,2020-01-01,,0.0,
 GRC,Europe,Greece,2020-01-02,,0.0,
@@ -19756,6 +19834,7 @@ GRC,Europe,Greece,2020-10-23,28216.0,882.0,549.0
 GRC,Europe,Greece,2020-10-24,29057.0,841.0,559.0
 GRC,Europe,Greece,2020-10-25,29992.0,935.0,564.0
 GRC,Europe,Greece,2020-10-26,30782.0,790.0,574.0
+GRC,Europe,Greece,2020-10-27,31496.0,714.0,581.0
 GRD,North America,Grenada,2020-03-23,1.0,1.0,
 GRD,North America,Grenada,2020-03-24,1.0,0.0,
 GRD,North America,Grenada,2020-03-25,1.0,0.0,
@@ -19974,6 +20053,7 @@ GRD,North America,Grenada,2020-10-23,27.0,0.0,
 GRD,North America,Grenada,2020-10-24,27.0,0.0,
 GRD,North America,Grenada,2020-10-25,28.0,1.0,
 GRD,North America,Grenada,2020-10-26,28.0,0.0,
+GRD,North America,Grenada,2020-10-27,28.0,0.0,
 GRL,North America,Greenland,2020-03-20,2.0,2.0,
 GRL,North America,Greenland,2020-03-21,2.0,0.0,
 GRL,North America,Greenland,2020-03-22,2.0,0.0,
@@ -20195,6 +20275,7 @@ GRL,North America,Greenland,2020-10-23,17.0,1.0,
 GRL,North America,Greenland,2020-10-24,17.0,0.0,
 GRL,North America,Greenland,2020-10-25,17.0,0.0,
 GRL,North America,Greenland,2020-10-26,17.0,0.0,
+GRL,North America,Greenland,2020-10-27,17.0,0.0,
 GTM,North America,Guatemala,2020-02-17,,,
 GTM,North America,Guatemala,2020-02-18,,,
 GTM,North America,Guatemala,2020-02-19,,,
@@ -20448,6 +20529,7 @@ GTM,North America,Guatemala,2020-10-23,103172.0,757.0,3580.0
 GTM,North America,Guatemala,2020-10-24,103902.0,730.0,3594.0
 GTM,North America,Guatemala,2020-10-25,104632.0,730.0,3609.0
 GTM,North America,Guatemala,2020-10-26,104787.0,155.0,3644.0
+GTM,North America,Guatemala,2020-10-27,104894.0,107.0,3651.0
 GUM,Oceania,Guam,2020-03-19,3.0,3.0,
 GUM,Oceania,Guam,2020-03-20,12.0,9.0,
 GUM,Oceania,Guam,2020-03-21,14.0,2.0,
@@ -20670,6 +20752,7 @@ GUM,Oceania,Guam,2020-10-23,4056.0,88.0,69.0
 GUM,Oceania,Guam,2020-10-24,4141.0,85.0,69.0
 GUM,Oceania,Guam,2020-10-25,4216.0,75.0,71.0
 GUM,Oceania,Guam,2020-10-26,4216.0,0.0,72.0
+GUM,Oceania,Guam,2020-10-27,4336.0,120.0,75.0
 GUY,South America,Guyana,2020-03-13,1.0,1.0,1.0
 GUY,South America,Guyana,2020-03-16,4.0,3.0,1.0
 GUY,South America,Guyana,2020-03-17,4.0,0.0,1.0
@@ -20896,6 +20979,7 @@ GUY,South America,Guyana,2020-10-23,3877.0,27.0,117.0
 GUY,South America,Guyana,2020-10-24,3960.0,83.0,117.0
 GUY,South America,Guyana,2020-10-25,3994.0,34.0,117.0
 GUY,South America,Guyana,2020-10-26,4023.0,29.0,119.0
+GUY,South America,Guyana,2020-10-27,4026.0,3.0,119.0
 HKG,Asia,Hong Kong,2020-01-31,,,
 HKG,Asia,Hong Kong,2020-02-29,,,
 HKG,Asia,Hong Kong,2020-03-31,,,
@@ -21181,6 +21265,7 @@ HND,North America,Honduras,2020-10-23,91509.0,431.0,2604.0
 HND,North America,Honduras,2020-10-24,91882.0,373.0,2612.0
 HND,North America,Honduras,2020-10-25,92724.0,842.0,2617.0
 HND,North America,Honduras,2020-10-26,93214.0,490.0,2623.0
+HND,North America,Honduras,2020-10-27,93966.0,752.0,2633.0
 HRV,Europe,Croatia,2019-12-31,,0.0,
 HRV,Europe,Croatia,2020-01-01,,0.0,
 HRV,Europe,Croatia,2020-01-02,,0.0,
@@ -21482,6 +21567,7 @@ HRV,Europe,Croatia,2020-10-23,29850.0,1563.0,406.0
 HRV,Europe,Croatia,2020-10-24,31717.0,1867.0,413.0
 HRV,Europe,Croatia,2020-10-25,33959.0,2242.0,429.0
 HRV,Europe,Croatia,2020-10-26,36380.0,2421.0,437.0
+HRV,Europe,Croatia,2020-10-27,37208.0,828.0,452.0
 HTI,North America,Haiti,2020-03-20,2.0,2.0,
 HTI,North America,Haiti,2020-03-21,2.0,0.0,
 HTI,North America,Haiti,2020-03-22,2.0,0.0,
@@ -21703,6 +21789,7 @@ HTI,North America,Haiti,2020-10-23,8979.0,0.0,231.0
 HTI,North America,Haiti,2020-10-24,9015.0,36.0,231.0
 HTI,North America,Haiti,2020-10-25,9015.0,0.0,231.0
 HTI,North America,Haiti,2020-10-26,9026.0,11.0,232.0
+HTI,North America,Haiti,2020-10-27,9026.0,0.0,232.0
 HUN,Europe,Hungary,2020-03-04,,,
 HUN,Europe,Hungary,2020-03-05,2.0,2.0,
 HUN,Europe,Hungary,2020-03-06,,,
@@ -21940,6 +22027,7 @@ HUN,Europe,Hungary,2020-10-23,54278.0,2066.0,1352.0
 HUN,Europe,Hungary,2020-10-24,56098.0,1820.0,1390.0
 HUN,Europe,Hungary,2020-10-25,59247.0,3149.0,1425.0
 HUN,Europe,Hungary,2020-10-26,61563.0,2316.0,1472.0
+HUN,Europe,Hungary,2020-10-27,63642.0,2079.0,1535.0
 IDN,Asia,Indonesia,2019-12-31,,0.0,
 IDN,Asia,Indonesia,2020-01-01,,0.0,
 IDN,Asia,Indonesia,2020-01-02,,0.0,
@@ -22241,6 +22329,7 @@ IDN,Asia,Indonesia,2020-10-23,377541.0,4432.0,12959.0
 IDN,Asia,Indonesia,2020-10-24,381910.0,4369.0,13077.0
 IDN,Asia,Indonesia,2020-10-25,385980.0,4070.0,13205.0
 IDN,Asia,Indonesia,2020-10-26,389712.0,3732.0,13299.0
+IDN,Asia,Indonesia,2020-10-27,392934.0,3222.0,13411.0
 IMN,Europe,Isle of Man,2020-03-21,1.0,1.0,
 IMN,Europe,Isle of Man,2020-03-22,2.0,1.0,
 IMN,Europe,Isle of Man,2020-03-23,2.0,0.0,
@@ -22461,6 +22550,7 @@ IMN,Europe,Isle of Man,2020-10-23,348.0,0.0,24.0
 IMN,Europe,Isle of Man,2020-10-24,348.0,0.0,24.0
 IMN,Europe,Isle of Man,2020-10-25,348.0,0.0,24.0
 IMN,Europe,Isle of Man,2020-10-26,348.0,0.0,24.0
+IMN,Europe,Isle of Man,2020-10-27,351.0,3.0,24.0
 IND,Asia,India,2019-12-31,,0.0,
 IND,Asia,India,2020-01-01,,0.0,
 IND,Asia,India,2020-01-02,,0.0,
@@ -22762,6 +22852,7 @@ IND,Asia,India,2020-10-23,7761312.0,54366.0,117306.0
 IND,Asia,India,2020-10-24,7814682.0,53370.0,117956.0
 IND,Asia,India,2020-10-25,7864811.0,50129.0,118534.0
 IND,Asia,India,2020-10-26,7909959.0,45148.0,119014.0
+IND,Asia,India,2020-10-27,7946429.0,36470.0,119502.0
 IRL,Europe,Ireland,2019-12-31,,0.0,
 IRL,Europe,Ireland,2020-01-01,,0.0,
 IRL,Europe,Ireland,2020-01-02,,0.0,
@@ -23063,6 +23154,7 @@ IRL,Europe,Ireland,2020-10-23,54476.0,1054.0,1871.0
 IRL,Europe,Ireland,2020-10-24,55261.0,785.0,1878.0
 IRL,Europe,Ireland,2020-10-25,56108.0,847.0,1882.0
 IRL,Europe,Ireland,2020-10-26,57128.0,1020.0,1882.0
+IRL,Europe,Ireland,2020-10-27,58067.0,939.0,1885.0
 IRN,Asia,Iran,2019-12-31,,0.0,
 IRN,Asia,Iran,2020-01-01,,0.0,
 IRN,Asia,Iran,2020-01-02,,0.0,
@@ -23364,6 +23456,7 @@ IRN,Asia,Iran,2020-10-23,550757.0,5471.0,31650.0
 IRN,Asia,Iran,2020-10-24,556891.0,6134.0,31985.0
 IRN,Asia,Iran,2020-10-25,562705.0,5814.0,32320.0
 IRN,Asia,Iran,2020-10-26,568896.0,6191.0,32616.0
+IRN,Asia,Iran,2020-10-27,574856.0,5960.0,32953.0
 IRQ,Asia,Iraq,2019-12-31,,0.0,
 IRQ,Asia,Iraq,2020-01-01,,0.0,
 IRQ,Asia,Iraq,2020-01-02,,0.0,
@@ -23665,6 +23758,7 @@ IRQ,Asia,Iraq,2020-10-23,442164.0,3899.0,10465.0
 IRQ,Asia,Iraq,2020-10-24,445949.0,3785.0,10513.0
 IRQ,Asia,Iraq,2020-10-25,449153.0,3204.0,10568.0
 IRQ,Asia,Iraq,2020-10-26,451707.0,2554.0,10623.0
+IRQ,Asia,Iraq,2020-10-27,455398.0,3691.0,10671.0
 ISL,Europe,Iceland,2019-12-31,,0.0,
 ISL,Europe,Iceland,2020-01-01,,0.0,
 ISL,Europe,Iceland,2020-01-02,,0.0,
@@ -23966,6 +24060,7 @@ ISL,Europe,Iceland,2020-10-23,4268.0,38.0,11.0
 ISL,Europe,Iceland,2020-10-24,4308.0,40.0,11.0
 ISL,Europe,Iceland,2020-10-25,4394.0,86.0,11.0
 ISL,Europe,Iceland,2020-10-26,4448.0,54.0,11.0
+ISL,Europe,Iceland,2020-10-27,4504.0,56.0,11.0
 ISR,Asia,Israel,2019-12-31,,0.0,
 ISR,Asia,Israel,2020-01-01,,0.0,
 ISR,Asia,Israel,2020-01-02,,0.0,
@@ -24267,6 +24362,7 @@ ISR,Asia,Israel,2020-10-23,308572.0,1237.0,2319.0
 ISR,Asia,Israel,2020-10-24,308840.0,268.0,2329.0
 ISR,Asia,Israel,2020-10-25,309413.0,573.0,2372.0
 ISR,Asia,Israel,2020-10-26,310148.0,735.0,2397.0
+ISR,Asia,Israel,2020-10-27,310851.0,703.0,2453.0
 ITA,Europe,Italy,2019-12-31,,0.0,
 ITA,Europe,Italy,2020-01-01,,0.0,
 ITA,Europe,Italy,2020-01-02,,0.0,
@@ -24568,6 +24664,7 @@ ITA,Europe,Italy,2020-10-23,465726.0,16078.0,36968.0
 ITA,Europe,Italy,2020-10-24,484869.0,19143.0,37059.0
 ITA,Europe,Italy,2020-10-25,504509.0,19640.0,37210.0
 ITA,Europe,Italy,2020-10-26,525782.0,21273.0,37338.0
+ITA,Europe,Italy,2020-10-27,542789.0,17007.0,37479.0
 JAM,North America,Jamaica,2020-03-12,2.0,2.0,
 JAM,North America,Jamaica,2020-03-13,6.0,4.0,
 JAM,North America,Jamaica,2020-03-14,8.0,2.0,
@@ -24796,6 +24893,7 @@ JAM,North America,Jamaica,2020-10-23,8600.0,155.0,179.0
 JAM,North America,Jamaica,2020-10-24,8638.0,38.0,182.0
 JAM,North America,Jamaica,2020-10-25,8670.0,32.0,186.0
 JAM,North America,Jamaica,2020-10-26,8714.0,44.0,188.0
+JAM,North America,Jamaica,2020-10-27,8749.0,35.0,192.0
 JEY,Europe,Jersey,2020-03-20,5.0,5.0,
 JEY,Europe,Jersey,2020-03-21,12.0,7.0,
 JEY,Europe,Jersey,2020-03-22,12.0,0.0,
@@ -25017,6 +25115,7 @@ JEY,Europe,Jersey,2020-10-23,526.0,3.0,32.0
 JEY,Europe,Jersey,2020-10-24,530.0,4.0,32.0
 JEY,Europe,Jersey,2020-10-25,530.0,0.0,32.0
 JEY,Europe,Jersey,2020-10-26,530.0,0.0,32.0
+JEY,Europe,Jersey,2020-10-27,556.0,26.0,32.0
 JOR,Asia,Jordan,2020-03-03,1.0,1.0,
 JOR,Asia,Jordan,2020-03-08,1.0,0.0,
 JOR,Asia,Jordan,2020-03-09,,,
@@ -25251,6 +25350,7 @@ JOR,Asia,Jordan,2020-10-23,46441.0,2821.0,481.0
 JOR,Asia,Jordan,2020-10-24,48930.0,2489.0,508.0
 JOR,Asia,Jordan,2020-10-25,50750.0,1820.0,540.0
 JOR,Asia,Jordan,2020-10-26,53087.0,2337.0,579.0
+JOR,Asia,Jordan,2020-10-27,55055.0,1968.0,624.0
 JPN,Asia,Japan,2019-12-31,,0.0,
 JPN,Asia,Japan,2020-01-01,,0.0,
 JPN,Asia,Japan,2020-01-02,,0.0,
@@ -25552,6 +25652,7 @@ JPN,Asia,Japan,2020-10-23,95138.0,614.0,1694.0
 JPN,Asia,Japan,2020-10-24,95835.0,697.0,1706.0
 JPN,Asia,Japan,2020-10-25,96534.0,699.0,1711.0
 JPN,Asia,Japan,2020-10-26,97074.0,540.0,1718.0
+JPN,Asia,Japan,2020-10-27,97498.0,424.0,1725.0
 KAZ,Asia,Kazakhstan,2020-03-13,,,
 KAZ,Asia,Kazakhstan,2020-03-14,,,
 KAZ,Asia,Kazakhstan,2020-03-15,6.0,6.0,
@@ -25780,6 +25881,7 @@ KAZ,Asia,Kazakhstan,2020-10-23,146653.0,365.0,2187.0
 KAZ,Asia,Kazakhstan,2020-10-24,146982.0,329.0,2189.0
 KAZ,Asia,Kazakhstan,2020-10-25,147297.0,315.0,2189.0
 KAZ,Asia,Kazakhstan,2020-10-26,147463.0,166.0,2190.0
+KAZ,Asia,Kazakhstan,2020-10-27,147615.0,152.0,2191.0
 KEN,Africa,Kenya,2020-03-06,,,
 KEN,Africa,Kenya,2020-03-07,,,
 KEN,Africa,Kenya,2020-03-08,,,
@@ -26015,6 +26117,7 @@ KEN,Africa,Kenya,2020-10-23,47212.0,1068.0,870.0
 KEN,Africa,Kenya,2020-10-24,47843.0,631.0,884.0
 KEN,Africa,Kenya,2020-10-25,48790.0,947.0,896.0
 KEN,Africa,Kenya,2020-10-26,49721.0,931.0,902.0
+KEN,Africa,Kenya,2020-10-27,49997.0,276.0,920.0
 KGZ,Asia,Kyrgyzstan,2020-03-19,3.0,3.0,
 KGZ,Asia,Kyrgyzstan,2020-03-20,6.0,3.0,
 KGZ,Asia,Kyrgyzstan,2020-03-21,6.0,0.0,
@@ -26237,6 +26340,7 @@ KGZ,Asia,Kyrgyzstan,2020-10-23,54588.0,582.0,1126.0
 KGZ,Asia,Kyrgyzstan,2020-10-24,55144.0,556.0,1130.0
 KGZ,Asia,Kyrgyzstan,2020-10-25,55750.0,606.0,1134.0
 KGZ,Asia,Kyrgyzstan,2020-10-26,56170.0,420.0,1134.0
+KGZ,Asia,Kyrgyzstan,2020-10-27,56738.0,568.0,1136.0
 KHM,Asia,Cambodia,2019-12-31,,0.0,
 KHM,Asia,Cambodia,2020-01-01,,0.0,
 KHM,Asia,Cambodia,2020-01-02,,0.0,
@@ -26538,6 +26642,7 @@ KHM,Asia,Cambodia,2020-10-23,286.0,0.0,
 KHM,Asia,Cambodia,2020-10-24,287.0,1.0,
 KHM,Asia,Cambodia,2020-10-25,287.0,0.0,
 KHM,Asia,Cambodia,2020-10-26,287.0,0.0,
+KHM,Asia,Cambodia,2020-10-27,288.0,1.0,
 KNA,North America,Saint Kitts and Nevis,2020-03-26,2.0,2.0,
 KNA,North America,Saint Kitts and Nevis,2020-03-27,2.0,0.0,
 KNA,North America,Saint Kitts and Nevis,2020-03-28,2.0,0.0,
@@ -26753,6 +26858,7 @@ KNA,North America,Saint Kitts and Nevis,2020-10-23,19.0,0.0,
 KNA,North America,Saint Kitts and Nevis,2020-10-24,19.0,0.0,
 KNA,North America,Saint Kitts and Nevis,2020-10-25,19.0,0.0,
 KNA,North America,Saint Kitts and Nevis,2020-10-26,19.0,0.0,
+KNA,North America,Saint Kitts and Nevis,2020-10-27,19.0,0.0,
 KOR,Asia,South Korea,2019-12-31,,0.0,
 KOR,Asia,South Korea,2020-01-01,,0.0,
 KOR,Asia,South Korea,2020-01-02,,0.0,
@@ -27054,6 +27160,7 @@ KOR,Asia,South Korea,2020-10-23,25698.0,155.0,455.0
 KOR,Asia,South Korea,2020-10-24,25775.0,77.0,457.0
 KOR,Asia,South Korea,2020-10-25,25836.0,61.0,457.0
 KOR,Asia,South Korea,2020-10-26,25955.0,119.0,457.0
+KOR,Asia,South Korea,2020-10-27,26043.0,88.0,460.0
 KWT,Asia,Kuwait,2019-12-31,,0.0,
 KWT,Asia,Kuwait,2020-01-01,,0.0,
 KWT,Asia,Kuwait,2020-01-02,,0.0,
@@ -27355,6 +27462,7 @@ KWT,Asia,Kuwait,2020-10-23,119420.0,889.0,730.0
 KWT,Asia,Kuwait,2020-10-24,120232.0,812.0,740.0
 KWT,Asia,Kuwait,2020-10-25,120927.0,695.0,744.0
 KWT,Asia,Kuwait,2020-10-26,121635.0,708.0,746.0
+KWT,Asia,Kuwait,2020-10-27,122317.0,682.0,749.0
 LAO,Asia,Laos,2020-03-25,2.0,2.0,
 LAO,Asia,Laos,2020-03-26,2.0,0.0,
 LAO,Asia,Laos,2020-03-27,6.0,4.0,
@@ -27571,6 +27679,7 @@ LAO,Asia,Laos,2020-10-23,24.0,0.0,
 LAO,Asia,Laos,2020-10-24,24.0,0.0,
 LAO,Asia,Laos,2020-10-25,24.0,0.0,
 LAO,Asia,Laos,2020-10-26,24.0,0.0,
+LAO,Asia,Laos,2020-10-27,24.0,0.0,
 LBN,Asia,Lebanon,2019-12-31,,0.0,
 LBN,Asia,Lebanon,2020-01-01,,0.0,
 LBN,Asia,Lebanon,2020-01-02,,0.0,
@@ -27872,6 +27981,7 @@ LBN,Asia,Lebanon,2020-10-23,67027.0,1450.0,552.0
 LBN,Asia,Lebanon,2020-10-24,68479.0,1452.0,559.0
 LBN,Asia,Lebanon,2020-10-25,69906.0,1427.0,562.0
 LBN,Asia,Lebanon,2020-10-26,71390.0,1484.0,565.0
+LBN,Asia,Lebanon,2020-10-27,72186.0,796.0,579.0
 LBR,Africa,Liberia,2020-03-17,1.0,1.0,
 LBR,Africa,Liberia,2020-03-18,2.0,1.0,
 LBR,Africa,Liberia,2020-03-19,2.0,0.0,
@@ -28096,6 +28206,7 @@ LBR,Africa,Liberia,2020-10-23,1385.0,0.0,82.0
 LBR,Africa,Liberia,2020-10-24,1393.0,8.0,82.0
 LBR,Africa,Liberia,2020-10-25,1393.0,0.0,82.0
 LBR,Africa,Liberia,2020-10-26,1393.0,0.0,82.0
+LBR,Africa,Liberia,2020-10-27,1416.0,23.0,82.0
 LBY,Africa,Libya,2020-03-04,,,
 LBY,Africa,Libya,2020-03-05,,,
 LBY,Africa,Libya,2020-03-06,,,
@@ -28333,6 +28444,7 @@ LBY,Africa,Libya,2020-10-23,52620.0,995.0,768.0
 LBY,Africa,Libya,2020-10-24,53384.0,764.0,774.0
 LBY,Africa,Libya,2020-10-25,54374.0,990.0,790.0
 LBY,Africa,Libya,2020-10-26,56013.0,1639.0,795.0
+LBY,Africa,Libya,2020-10-27,57223.0,1210.0,801.0
 LCA,North America,Saint Lucia,2020-03-15,2.0,2.0,
 LCA,North America,Saint Lucia,2020-03-16,2.0,0.0,
 LCA,North America,Saint Lucia,2020-03-17,2.0,0.0,
@@ -28559,6 +28671,7 @@ LCA,North America,Saint Lucia,2020-10-23,42.0,3.0,
 LCA,North America,Saint Lucia,2020-10-24,48.0,6.0,
 LCA,North America,Saint Lucia,2020-10-25,52.0,4.0,
 LCA,North America,Saint Lucia,2020-10-26,54.0,2.0,
+LCA,North America,Saint Lucia,2020-10-27,63.0,9.0,
 LIE,Europe,Liechtenstein,2020-03-05,1.0,1.0,
 LIE,Europe,Liechtenstein,2020-03-11,,,
 LIE,Europe,Liechtenstein,2020-03-12,3.0,2.0,
@@ -28790,6 +28903,7 @@ LIE,Europe,Liechtenstein,2020-10-23,288.0,26.0,1.0
 LIE,Europe,Liechtenstein,2020-10-24,330.0,42.0,1.0
 LIE,Europe,Liechtenstein,2020-10-25,340.0,10.0,1.0
 LIE,Europe,Liechtenstein,2020-10-26,365.0,25.0,1.0
+LIE,Europe,Liechtenstein,2020-10-27,413.0,48.0,1.0
 LKA,Asia,Sri Lanka,2019-12-31,,0.0,
 LKA,Asia,Sri Lanka,2020-01-01,,0.0,
 LKA,Asia,Sri Lanka,2020-01-02,,0.0,
@@ -29091,6 +29205,7 @@ LKA,Asia,Sri Lanka,2020-10-23,6287.0,309.0,14.0
 LKA,Asia,Sri Lanka,2020-10-24,7153.0,866.0,14.0
 LKA,Asia,Sri Lanka,2020-10-25,7521.0,368.0,15.0
 LKA,Asia,Sri Lanka,2020-10-26,7872.0,351.0,15.0
+LKA,Asia,Sri Lanka,2020-10-27,8413.0,541.0,16.0
 LSO,Africa,Lesotho,2020-05-15,1.0,1.0,
 LSO,Africa,Lesotho,2020-05-16,1.0,0.0,
 LSO,Africa,Lesotho,2020-05-17,1.0,0.0,
@@ -29256,6 +29371,7 @@ LSO,Africa,Lesotho,2020-10-23,1918.0,0.0,43.0
 LSO,Africa,Lesotho,2020-10-24,1923.0,5.0,43.0
 LSO,Africa,Lesotho,2020-10-25,1934.0,11.0,43.0
 LSO,Africa,Lesotho,2020-10-26,1940.0,6.0,43.0
+LSO,Africa,Lesotho,2020-10-27,1943.0,3.0,43.0
 LTU,Europe,Lithuania,2019-12-31,,0.0,
 LTU,Europe,Lithuania,2020-01-01,,0.0,
 LTU,Europe,Lithuania,2020-01-02,,0.0,
@@ -29557,6 +29673,7 @@ LTU,Europe,Lithuania,2020-10-23,8663.0,424.0,125.0
 LTU,Europe,Lithuania,2020-10-24,9104.0,441.0,126.0
 LTU,Europe,Lithuania,2020-10-25,9578.0,474.0,129.0
 LTU,Europe,Lithuania,2020-10-26,10184.0,606.0,134.0
+LTU,Europe,Lithuania,2020-10-27,10949.0,765.0,136.0
 LUX,Europe,Luxembourg,2019-12-31,,0.0,
 LUX,Europe,Luxembourg,2020-01-01,,0.0,
 LUX,Europe,Luxembourg,2020-01-02,,0.0,
@@ -29858,6 +29975,7 @@ LUX,Europe,Luxembourg,2020-10-23,12333.0,662.0,140.0
 LUX,Europe,Luxembourg,2020-10-24,12851.0,518.0,141.0
 LUX,Europe,Luxembourg,2020-10-25,13713.0,862.0,144.0
 LUX,Europe,Luxembourg,2020-10-26,14204.0,491.0,145.0
+LUX,Europe,Luxembourg,2020-10-27,14399.0,195.0,147.0
 LVA,Europe,Latvia,2020-02-29,,,
 LVA,Europe,Latvia,2020-03-01,,,
 LVA,Europe,Latvia,2020-03-02,,,
@@ -30099,6 +30217,7 @@ LVA,Europe,Latvia,2020-10-23,3958.0,161.0,49.0
 LVA,Europe,Latvia,2020-10-24,4208.0,250.0,50.0
 LVA,Europe,Latvia,2020-10-25,4467.0,259.0,54.0
 LVA,Europe,Latvia,2020-10-26,4678.0,211.0,56.0
+LVA,Europe,Latvia,2020-10-27,4757.0,79.0,60.0
 MAR,Africa,Morocco,2020-02-07,,,
 MAR,Africa,Morocco,2020-02-08,,,
 MAR,Africa,Morocco,2020-02-09,,,
@@ -30292,14 +30411,14 @@ MAR,Africa,Morocco,2020-08-14,37935.0,1241.0,584.0
 MAR,Africa,Morocco,2020-08-15,39241.0,1306.0,611.0
 MAR,Africa,Morocco,2020-08-16,41017.0,1776.0,632.0
 MAR,Africa,Morocco,2020-08-17,42489.0,1472.0,658.0
-MAR,Africa,Morocco,2020-08-18,43558.0,1069.0,658.0
-MAR,Africa,Morocco,2020-08-19,43558.0,0.0,681.0
-MAR,Africa,Morocco,2020-08-20,46313.0,2755.0,743.0
+MAR,Africa,Morocco,2020-08-18,43558.0,1069.0,681.0
+MAR,Africa,Morocco,2020-08-19,44803.0,1245.0,714.0
+MAR,Africa,Morocco,2020-08-20,46313.0,1510.0,743.0
 MAR,Africa,Morocco,2020-08-21,47638.0,1325.0,775.0
 MAR,Africa,Morocco,2020-08-22,49247.0,1609.0,817.0
 MAR,Africa,Morocco,2020-08-23,50812.0,1565.0,858.0
-MAR,Africa,Morocco,2020-08-24,50812.0,0.0,858.0
-MAR,Africa,Morocco,2020-08-25,53252.0,2440.0,920.0
+MAR,Africa,Morocco,2020-08-24,52349.0,1537.0,888.0
+MAR,Africa,Morocco,2020-08-25,53252.0,903.0,920.0
 MAR,Africa,Morocco,2020-08-26,54528.0,1276.0,955.0
 MAR,Africa,Morocco,2020-08-27,55864.0,1336.0,984.0
 MAR,Africa,Morocco,2020-08-28,57085.0,1221.0,1011.0
@@ -30309,9 +30428,9 @@ MAR,Africa,Morocco,2020-08-31,61399.0,1343.0,1111.0
 MAR,Africa,Morocco,2020-09-01,62590.0,1191.0,1141.0
 MAR,Africa,Morocco,2020-09-02,63781.0,1191.0,1184.0
 MAR,Africa,Morocco,2020-09-03,65453.0,1672.0,1216.0
-MAR,Africa,Morocco,2020-09-04,65855.0,402.0,1253.0
-MAR,Africa,Morocco,2020-09-05,65855.0,0.0,1253.0
-MAR,Africa,Morocco,2020-09-06,70160.0,4305.0,1329.0
+MAR,Africa,Morocco,2020-09-04,66855.0,1402.0,1253.0
+MAR,Africa,Morocco,2020-09-05,68605.0,1750.0,1292.0
+MAR,Africa,Morocco,2020-09-06,70160.0,1555.0,1329.0
 MAR,Africa,Morocco,2020-09-07,72394.0,2234.0,1361.0
 MAR,Africa,Morocco,2020-09-08,73780.0,1386.0,1394.0
 MAR,Africa,Morocco,2020-09-09,75721.0,1941.0,1427.0
@@ -30346,9 +30465,9 @@ MAR,Africa,Morocco,2020-10-07,137248.0,2553.0,2410.0
 MAR,Africa,Morocco,2020-10-08,140024.0,2776.0,2439.0
 MAR,Africa,Morocco,2020-10-09,142953.0,2929.0,2486.0
 MAR,Africa,Morocco,2020-10-10,146398.0,3445.0,2530.0
-MAR,Africa,Morocco,2020-10-11,146398.0,0.0,2530.0
-MAR,Africa,Morocco,2020-10-12,149841.0,3443.0,2572.0
-MAR,Africa,Morocco,2020-10-13,153761.0,3920.0,2636.0
+MAR,Africa,Morocco,2020-10-11,149841.0,3443.0,2572.0
+MAR,Africa,Morocco,2020-10-12,152404.0,2563.0,2605.0
+MAR,Africa,Morocco,2020-10-13,153761.0,1357.0,2636.0
 MAR,Africa,Morocco,2020-10-14,156946.0,3185.0,2685.0
 MAR,Africa,Morocco,2020-10-15,160333.0,3387.0,2726.0
 MAR,Africa,Morocco,2020-10-16,163650.0,3317.0,2772.0
@@ -30362,6 +30481,7 @@ MAR,Africa,Morocco,2020-10-23,186731.0,4151.0,3132.0
 MAR,Africa,Morocco,2020-10-24,190416.0,3685.0,3205.0
 MAR,Africa,Morocco,2020-10-25,194461.0,4045.0,3255.0
 MAR,Africa,Morocco,2020-10-26,197481.0,3020.0,3301.0
+MAR,Africa,Morocco,2020-10-27,199745.0,2264.0,3373.0
 MCO,Europe,Monaco,2019-12-31,,0.0,
 MCO,Europe,Monaco,2020-01-01,,0.0,
 MCO,Europe,Monaco,2020-01-02,,0.0,
@@ -30663,6 +30783,7 @@ MCO,Europe,Monaco,2020-10-23,281.0,8.0,1.0
 MCO,Europe,Monaco,2020-10-24,295.0,14.0,1.0
 MCO,Europe,Monaco,2020-10-25,296.0,1.0,1.0
 MCO,Europe,Monaco,2020-10-26,306.0,10.0,1.0
+MCO,Europe,Monaco,2020-10-27,310.0,4.0,1.0
 MDA,Europe,Moldova,2020-03-08,1.0,1.0,
 MDA,Europe,Moldova,2020-03-11,3.0,2.0,
 MDA,Europe,Moldova,2020-03-12,4.0,1.0,
@@ -30894,6 +31015,7 @@ MDA,Europe,Moldova,2020-10-23,69568.0,777.0,1641.0
 MDA,Europe,Moldova,2020-10-24,70256.0,688.0,1655.0
 MDA,Europe,Moldova,2020-10-25,71089.0,833.0,1669.0
 MDA,Europe,Moldova,2020-10-26,71503.0,414.0,1685.0
+MDA,Europe,Moldova,2020-10-27,71811.0,308.0,1700.0
 MDG,Africa,Madagascar,2020-03-21,3.0,3.0,
 MDG,Africa,Madagascar,2020-03-22,3.0,0.0,
 MDG,Africa,Madagascar,2020-03-23,3.0,0.0,
@@ -31114,6 +31236,7 @@ MDG,Africa,Madagascar,2020-10-23,16810.0,0.0,238.0
 MDG,Africa,Madagascar,2020-10-24,16810.0,0.0,238.0
 MDG,Africa,Madagascar,2020-10-25,16968.0,158.0,244.0
 MDG,Africa,Madagascar,2020-10-26,16968.0,0.0,244.0
+MDG,Africa,Madagascar,2020-10-27,16968.0,0.0,244.0
 MDV,Asia,Maldives,2020-03-08,2.0,2.0,
 MDV,Asia,Maldives,2020-03-09,4.0,2.0,
 MDV,Asia,Maldives,2020-03-11,6.0,2.0,
@@ -31345,6 +31468,7 @@ MDV,Asia,Maldives,2020-10-23,11358.0,42.0,37.0
 MDV,Asia,Maldives,2020-10-24,11391.0,33.0,37.0
 MDV,Asia,Maldives,2020-10-25,11421.0,30.0,37.0
 MDV,Asia,Maldives,2020-10-26,11505.0,84.0,37.0
+MDV,Asia,Maldives,2020-10-27,11532.0,27.0,37.0
 MEX,North America,Mexico,2019-12-31,,0.0,
 MEX,North America,Mexico,2020-01-01,,0.0,
 MEX,North America,Mexico,2020-01-02,,0.0,
@@ -31646,6 +31770,7 @@ MEX,North America,Mexico,2020-10-23,874171.0,6612.0,87894.0
 MEX,North America,Mexico,2020-10-24,880775.0,6604.0,88312.0
 MEX,North America,Mexico,2020-10-25,886800.0,6025.0,88743.0
 MEX,North America,Mexico,2020-10-26,891160.0,4360.0,88924.0
+MEX,North America,Mexico,2020-10-27,895326.0,4166.0,89171.0
 MKD,Europe,Macedonia,2019-12-31,,0.0,
 MKD,Europe,Macedonia,2020-01-01,,0.0,
 MKD,Europe,Macedonia,2020-01-02,,0.0,
@@ -31947,6 +32072,7 @@ MKD,Europe,Macedonia,2020-10-23,25473.0,637.0,874.0
 MKD,Europe,Macedonia,2020-10-24,25991.0,518.0,883.0
 MKD,Europe,Macedonia,2020-10-25,26394.0,403.0,897.0
 MKD,Europe,Macedonia,2020-10-26,26954.0,560.0,919.0
+MKD,Europe,Macedonia,2020-10-27,27199.0,245.0,933.0
 MLI,Africa,Mali,2020-03-26,2.0,2.0,
 MLI,Africa,Mali,2020-03-27,4.0,2.0,
 MLI,Africa,Mali,2020-03-28,4.0,0.0,
@@ -32162,6 +32288,7 @@ MLI,Africa,Mali,2020-10-23,3440.0,12.0,132.0
 MLI,Africa,Mali,2020-10-24,3444.0,4.0,132.0
 MLI,Africa,Mali,2020-10-25,3472.0,28.0,132.0
 MLI,Africa,Mali,2020-10-26,3490.0,18.0,133.0
+MLI,Africa,Mali,2020-10-27,3499.0,9.0,133.0
 MLT,Europe,Malta,2020-02-06,,,
 MLT,Europe,Malta,2020-02-07,,,
 MLT,Europe,Malta,2020-02-08,,,
@@ -32426,6 +32553,7 @@ MLT,Europe,Malta,2020-10-23,5137.0,111.0,49.0
 MLT,Europe,Malta,2020-10-24,5258.0,121.0,49.0
 MLT,Europe,Malta,2020-10-25,5373.0,115.0,50.0
 MLT,Europe,Malta,2020-10-26,5373.0,0.0,50.0
+MLT,Europe,Malta,2020-10-27,5373.0,0.0,50.0
 MMR,Asia,Myanmar,2020-03-17,,0.0,
 MMR,Asia,Myanmar,2020-03-23,,,
 MMR,Asia,Myanmar,2020-03-24,2.0,2.0,
@@ -32645,6 +32773,7 @@ MMR,Asia,Myanmar,2020-10-23,41008.0,1312.0,1005.0
 MMR,Asia,Myanmar,2020-10-24,42365.0,1357.0,1038.0
 MMR,Asia,Myanmar,2020-10-25,43788.0,1423.0,1066.0
 MMR,Asia,Myanmar,2020-10-26,44774.0,986.0,1095.0
+MMR,Asia,Myanmar,2020-10-27,46200.0,1426.0,1122.0
 MNE,Europe,Montenegro,2020-03-18,2.0,2.0,
 MNE,Europe,Montenegro,2020-03-19,8.0,6.0,
 MNE,Europe,Montenegro,2020-03-20,13.0,5.0,
@@ -32868,6 +32997,7 @@ MNE,Europe,Montenegro,2020-10-23,16259.0,190.0,253.0
 MNE,Europe,Montenegro,2020-10-24,16436.0,177.0,255.0
 MNE,Europe,Montenegro,2020-10-25,16629.0,193.0,263.0
 MNE,Europe,Montenegro,2020-10-26,16797.0,168.0,266.0
+MNE,Europe,Montenegro,2020-10-27,16909.0,112.0,270.0
 MNG,Asia,Mongolia,2020-03-10,1.0,1.0,
 MNG,Asia,Mongolia,2020-03-15,1.0,0.0,
 MNG,Asia,Mongolia,2020-03-16,,,
@@ -33095,6 +33225,7 @@ MNG,Asia,Mongolia,2020-10-23,328.0,0.0,
 MNG,Asia,Mongolia,2020-10-24,337.0,9.0,
 MNG,Asia,Mongolia,2020-10-25,338.0,1.0,
 MNG,Asia,Mongolia,2020-10-26,339.0,1.0,
+MNG,Asia,Mongolia,2020-10-27,340.0,1.0,
 MNP,Oceania,Northern Mariana Islands,2020-03-31,2.0,2.0,
 MNP,Oceania,Northern Mariana Islands,2020-04-01,6.0,4.0,
 MNP,Oceania,Northern Mariana Islands,2020-04-02,6.0,0.0,1.0
@@ -33305,6 +33436,7 @@ MNP,Oceania,Northern Mariana Islands,2020-10-23,88.0,0.0,2.0
 MNP,Oceania,Northern Mariana Islands,2020-10-24,88.0,0.0,2.0
 MNP,Oceania,Northern Mariana Islands,2020-10-25,88.0,0.0,2.0
 MNP,Oceania,Northern Mariana Islands,2020-10-26,92.0,4.0,2.0
+MNP,Oceania,Northern Mariana Islands,2020-10-27,92.0,0.0,2.0
 MOZ,Africa,Mozambique,2020-03-23,1.0,1.0,
 MOZ,Africa,Mozambique,2020-03-24,1.0,0.0,
 MOZ,Africa,Mozambique,2020-03-25,1.0,0.0,
@@ -33523,6 +33655,7 @@ MOZ,Africa,Mozambique,2020-10-23,11559.0,228.0,81.0
 MOZ,Africa,Mozambique,2020-10-24,11748.0,189.0,82.0
 MOZ,Africa,Mozambique,2020-10-25,11895.0,147.0,85.0
 MOZ,Africa,Mozambique,2020-10-26,11986.0,91.0,86.0
+MOZ,Africa,Mozambique,2020-10-27,12161.0,175.0,88.0
 MRT,Africa,Mauritania,2020-03-15,1.0,1.0,
 MRT,Africa,Mauritania,2020-03-16,1.0,0.0,
 MRT,Africa,Mauritania,2020-03-17,1.0,0.0,
@@ -33749,6 +33882,7 @@ MRT,Africa,Mauritania,2020-10-23,7638.0,4.0,163.0
 MRT,Africa,Mauritania,2020-10-24,7638.0,0.0,163.0
 MRT,Africa,Mauritania,2020-10-25,7662.0,24.0,163.0
 MRT,Africa,Mauritania,2020-10-26,7662.0,0.0,163.0
+MRT,Africa,Mauritania,2020-10-27,7663.0,1.0,163.0
 MSR,North America,Montserrat,2020-03-21,1.0,1.0,
 MSR,North America,Montserrat,2020-03-22,1.0,0.0,
 MSR,North America,Montserrat,2020-03-23,1.0,0.0,
@@ -33969,6 +34103,7 @@ MSR,North America,Montserrat,2020-10-23,13.0,0.0,1.0
 MSR,North America,Montserrat,2020-10-24,13.0,0.0,1.0
 MSR,North America,Montserrat,2020-10-25,13.0,0.0,1.0
 MSR,North America,Montserrat,2020-10-26,13.0,0.0,1.0
+MSR,North America,Montserrat,2020-10-27,13.0,0.0,1.0
 MUS,Africa,Mauritius,2020-03-20,3.0,3.0,
 MUS,Africa,Mauritius,2020-03-21,12.0,9.0,
 MUS,Africa,Mauritius,2020-03-22,14.0,2.0,1.0
@@ -34190,6 +34325,7 @@ MUS,Africa,Mauritius,2020-10-23,421.0,2.0,10.0
 MUS,Africa,Mauritius,2020-10-24,435.0,14.0,10.0
 MUS,Africa,Mauritius,2020-10-25,435.0,0.0,10.0
 MUS,Africa,Mauritius,2020-10-26,435.0,0.0,10.0
+MUS,Africa,Mauritius,2020-10-27,439.0,4.0,10.0
 MWI,Africa,Malawi,2020-03-29,,,
 MWI,Africa,Malawi,2020-03-30,,,
 MWI,Africa,Malawi,2020-03-31,,,
@@ -34402,6 +34538,7 @@ MWI,Africa,Malawi,2020-10-23,5874.0,10.0,183.0
 MWI,Africa,Malawi,2020-10-24,5885.0,11.0,183.0
 MWI,Africa,Malawi,2020-10-25,5887.0,2.0,183.0
 MWI,Africa,Malawi,2020-10-26,5890.0,3.0,183.0
+MWI,Africa,Malawi,2020-10-27,5894.0,4.0,183.0
 MYS,Asia,Malaysia,2019-12-31,,0.0,
 MYS,Asia,Malaysia,2020-01-01,,0.0,
 MYS,Asia,Malaysia,2020-01-02,,0.0,
@@ -34703,6 +34840,7 @@ MYS,Asia,Malaysia,2020-10-23,23804.0,847.0,204.0
 MYS,Asia,Malaysia,2020-10-24,24514.0,710.0,214.0
 MYS,Asia,Malaysia,2020-10-25,25742.0,1228.0,221.0
 MYS,Asia,Malaysia,2020-10-26,26565.0,823.0,229.0
+MYS,Asia,Malaysia,2020-10-27,27805.0,1240.0,236.0
 NAM,Africa,Namibia,2020-03-15,2.0,2.0,
 NAM,Africa,Namibia,2020-03-16,2.0,0.0,
 NAM,Africa,Namibia,2020-03-17,2.0,0.0,
@@ -34929,6 +35067,7 @@ NAM,Africa,Namibia,2020-10-23,12460.0,54.0,133.0
 NAM,Africa,Namibia,2020-10-24,12501.0,41.0,133.0
 NAM,Africa,Namibia,2020-10-25,12579.0,78.0,133.0
 NAM,Africa,Namibia,2020-10-26,12660.0,81.0,133.0
+NAM,Africa,Namibia,2020-10-27,12675.0,15.0,133.0
 NCL,Oceania,New Caledonia,2020-03-21,2.0,2.0,
 NCL,Oceania,New Caledonia,2020-03-22,4.0,2.0,
 NCL,Oceania,New Caledonia,2020-03-23,5.0,1.0,
@@ -35149,6 +35288,7 @@ NCL,Oceania,New Caledonia,2020-10-23,27.0,0.0,
 NCL,Oceania,New Caledonia,2020-10-24,27.0,0.0,
 NCL,Oceania,New Caledonia,2020-10-25,27.0,0.0,
 NCL,Oceania,New Caledonia,2020-10-26,27.0,0.0,
+NCL,Oceania,New Caledonia,2020-10-27,27.0,0.0,
 NER,Africa,Niger,2020-03-21,1.0,1.0,
 NER,Africa,Niger,2020-03-22,1.0,0.0,
 NER,Africa,Niger,2020-03-23,1.0,0.0,
@@ -35369,6 +35509,7 @@ NER,Africa,Niger,2020-10-23,1215.0,1.0,69.0
 NER,Africa,Niger,2020-10-24,1215.0,0.0,69.0
 NER,Africa,Niger,2020-10-25,1215.0,0.0,69.0
 NER,Africa,Niger,2020-10-26,1215.0,0.0,69.0
+NER,Africa,Niger,2020-10-27,1215.0,0.0,69.0
 NGA,Africa,Nigeria,2019-12-31,,0.0,
 NGA,Africa,Nigeria,2020-01-01,,0.0,
 NGA,Africa,Nigeria,2020-01-02,,0.0,
@@ -35670,6 +35811,7 @@ NGA,Africa,Nigeria,2020-10-23,61805.0,138.0,1127.0
 NGA,Africa,Nigeria,2020-10-24,61882.0,77.0,1129.0
 NGA,Africa,Nigeria,2020-10-25,61930.0,48.0,1129.0
 NGA,Africa,Nigeria,2020-10-26,61992.0,62.0,1130.0
+NGA,Africa,Nigeria,2020-10-27,62111.0,119.0,1132.0
 NIC,North America,Nicaragua,2020-03-19,1.0,1.0,
 NIC,North America,Nicaragua,2020-03-20,1.0,0.0,
 NIC,North America,Nicaragua,2020-03-21,2.0,1.0,
@@ -35892,6 +36034,7 @@ NIC,North America,Nicaragua,2020-10-23,5434.0,0.0,155.0
 NIC,North America,Nicaragua,2020-10-24,5434.0,0.0,155.0
 NIC,North America,Nicaragua,2020-10-25,5434.0,0.0,155.0
 NIC,North America,Nicaragua,2020-10-26,5434.0,0.0,155.0
+NIC,North America,Nicaragua,2020-10-27,5434.0,0.0,155.0
 NLD,Europe,Netherlands,2019-12-31,,0.0,
 NLD,Europe,Netherlands,2020-01-01,,0.0,
 NLD,Europe,Netherlands,2020-01-02,,0.0,
@@ -36193,6 +36336,7 @@ NLD,Europe,Netherlands,2020-10-23,262109.0,9268.0,6909.0
 NLD,Europe,Netherlands,2020-10-24,272092.0,9983.0,6954.0
 NLD,Europe,Netherlands,2020-10-25,280731.0,8639.0,7009.0
 NLD,Europe,Netherlands,2020-10-26,290925.0,10194.0,7036.0
+NLD,Europe,Netherlands,2020-10-27,301249.0,10324.0,7062.0
 NOR,Europe,Norway,2019-12-31,,0.0,
 NOR,Europe,Norway,2020-01-01,,0.0,
 NOR,Europe,Norway,2020-01-02,,0.0,
@@ -36494,6 +36638,7 @@ NOR,Europe,Norway,2020-10-23,16964.0,193.0,279.0
 NOR,Europe,Norway,2020-10-24,17232.0,268.0,279.0
 NOR,Europe,Norway,2020-10-25,17232.0,0.0,279.0
 NOR,Europe,Norway,2020-10-26,17232.0,0.0,279.0
+NOR,Europe,Norway,2020-10-27,17908.0,676.0,279.0
 NPL,Asia,Nepal,2019-12-31,,0.0,
 NPL,Asia,Nepal,2020-01-01,,0.0,
 NPL,Asia,Nepal,2020-01-02,,0.0,
@@ -36795,6 +36940,7 @@ NPL,Asia,Nepal,2020-10-23,148509.0,3637.0,812.0
 NPL,Asia,Nepal,2020-10-24,153008.0,4499.0,829.0
 NPL,Asia,Nepal,2020-10-25,155233.0,2225.0,842.0
 NPL,Asia,Nepal,2020-10-26,158089.0,2856.0,847.0
+NPL,Asia,Nepal,2020-10-27,159830.0,1741.0,862.0
 NZL,Oceania,New Zealand,2019-12-31,,0.0,
 NZL,Oceania,New Zealand,2020-01-01,,0.0,
 NZL,Oceania,New Zealand,2020-01-02,,0.0,
@@ -37096,6 +37242,7 @@ NZL,Oceania,New Zealand,2020-10-23,1567.0,9.0,25.0
 NZL,Oceania,New Zealand,2020-10-24,1578.0,11.0,25.0
 NZL,Oceania,New Zealand,2020-10-25,1579.0,1.0,25.0
 NZL,Oceania,New Zealand,2020-10-26,1584.0,5.0,25.0
+NZL,Oceania,New Zealand,2020-10-27,1585.0,1.0,25.0
 OMN,Asia,Oman,2019-12-31,,0.0,
 OMN,Asia,Oman,2020-01-01,,0.0,
 OMN,Asia,Oman,2020-01-02,,0.0,
@@ -37397,6 +37544,7 @@ OMN,Asia,Oman,2020-10-23,111837.0,353.0,1147.0
 OMN,Asia,Oman,2020-10-24,111837.0,0.0,1147.0
 OMN,Asia,Oman,2020-10-25,111837.0,0.0,1147.0
 OMN,Asia,Oman,2020-10-26,112932.0,1095.0,1174.0
+OMN,Asia,Oman,2020-10-27,113354.0,422.0,1190.0
 PAK,Asia,Pakistan,2019-12-31,,0.0,
 PAK,Asia,Pakistan,2020-01-01,,0.0,
 PAK,Asia,Pakistan,2020-01-02,,0.0,
@@ -37698,6 +37846,7 @@ PAK,Asia,Pakistan,2020-10-23,326216.0,736.0,6715.0
 PAK,Asia,Pakistan,2020-10-24,327063.0,847.0,6727.0
 PAK,Asia,Pakistan,2020-10-25,327895.0,832.0,6736.0
 PAK,Asia,Pakistan,2020-10-26,328602.0,707.0,6739.0
+PAK,Asia,Pakistan,2020-10-27,329375.0,773.0,6745.0
 PAN,North America,Panama,2020-03-09,,,
 PAN,North America,Panama,2020-03-10,1.0,1.0,
 PAN,North America,Panama,2020-03-11,7.0,6.0,1.0
@@ -37930,6 +38079,7 @@ PAN,North America,Panama,2020-10-23,127227.0,792.0,2612.0
 PAN,North America,Panama,2020-10-24,127866.0,639.0,2622.0
 PAN,North America,Panama,2020-10-25,128515.0,649.0,2628.0
 PAN,North America,Panama,2020-10-26,129200.0,685.0,2633.0
+PAN,North America,Panama,2020-10-27,129751.0,551.0,2638.0
 PER,South America,Peru,2020-02-28,,,
 PER,South America,Peru,2020-02-29,,,
 PER,South America,Peru,2020-03-01,,,
@@ -38172,6 +38322,7 @@ PER,South America,Peru,2020-10-23,879876.0,2991.0,33984.0
 PER,South America,Peru,2020-10-24,883116.0,3240.0,34033.0
 PER,South America,Peru,2020-10-25,886214.0,3098.0,34095.0
 PER,South America,Peru,2020-10-26,888715.0,2501.0,34149.0
+PER,South America,Peru,2020-10-27,890574.0,1859.0,34197.0
 PHL,Asia,Philippines,2019-12-31,,0.0,
 PHL,Asia,Philippines,2020-01-01,,0.0,
 PHL,Asia,Philippines,2020-01-02,,0.0,
@@ -38473,6 +38624,7 @@ PHL,Asia,Philippines,2020-10-23,363888.0,1645.0,6783.0
 PHL,Asia,Philippines,2020-10-24,365799.0,1911.0,6915.0
 PHL,Asia,Philippines,2020-10-25,367819.0,2020.0,6934.0
 PHL,Asia,Philippines,2020-10-26,370028.0,2209.0,6977.0
+PHL,Asia,Philippines,2020-10-27,371630.0,1602.0,7039.0
 PNG,Oceania,Papua New Guinea,2020-03-21,1.0,1.0,
 PNG,Oceania,Papua New Guinea,2020-03-22,1.0,0.0,
 PNG,Oceania,Papua New Guinea,2020-03-23,1.0,0.0,
@@ -38693,6 +38845,7 @@ PNG,Oceania,Papua New Guinea,2020-10-23,583.0,0.0,7.0
 PNG,Oceania,Papua New Guinea,2020-10-24,583.0,0.0,7.0
 PNG,Oceania,Papua New Guinea,2020-10-25,583.0,0.0,7.0
 PNG,Oceania,Papua New Guinea,2020-10-26,588.0,5.0,7.0
+PNG,Oceania,Papua New Guinea,2020-10-27,588.0,0.0,7.0
 POL,Europe,Poland,2020-03-04,1.0,1.0,
 POL,Europe,Poland,2020-03-07,5.0,4.0,
 POL,Europe,Poland,2020-03-08,6.0,1.0,
@@ -38928,6 +39081,7 @@ POL,Europe,Poland,2020-10-23,214686.0,12107.0,4019.0
 POL,Europe,Poland,2020-10-24,228318.0,13632.0,4172.0
 POL,Europe,Poland,2020-10-25,241946.0,13628.0,4351.0
 POL,Europe,Poland,2020-10-26,253688.0,11742.0,4438.0
+POL,Europe,Poland,2020-10-27,263929.0,10241.0,4483.0
 PRI,North America,Puerto Rico,2020-03-28,64.0,64.0,2.0
 PRI,North America,Puerto Rico,2020-03-29,100.0,36.0,3.0
 PRI,North America,Puerto Rico,2020-03-30,127.0,27.0,5.0
@@ -39141,6 +39295,7 @@ PRI,North America,Puerto Rico,2020-10-23,59037.0,207.0,783.0
 PRI,North America,Puerto Rico,2020-10-24,60984.0,1947.0,791.0
 PRI,North America,Puerto Rico,2020-10-25,61280.0,296.0,794.0
 PRI,North America,Puerto Rico,2020-10-26,62503.0,1223.0,801.0
+PRI,North America,Puerto Rico,2020-10-27,63122.0,619.0,804.0
 PRT,Europe,Portugal,2020-03-01,,,
 PRT,Europe,Portugal,2020-03-02,,,
 PRT,Europe,Portugal,2020-03-03,2.0,2.0,
@@ -39379,8 +39534,9 @@ PRT,Europe,Portugal,2020-10-21,103736.0,1876.0,2213.0
 PRT,Europe,Portugal,2020-10-22,106271.0,2535.0,2229.0
 PRT,Europe,Portugal,2020-10-23,109541.0,3270.0,2245.0
 PRT,Europe,Portugal,2020-10-24,112440.0,2899.0,2276.0
-PRT,Europe,Portugal,2020-10-25,114109.0,1669.0,2297.0
-PRT,Europe,Portugal,2020-10-26,118686.0,4577.0,2316.0
+PRT,Europe,Portugal,2020-10-25,116109.0,3669.0,2297.0
+PRT,Europe,Portugal,2020-10-26,118686.0,2577.0,2316.0
+PRT,Europe,Portugal,2020-10-27,121133.0,2447.0,2343.0
 PRY,South America,Paraguay,2020-03-07,,,
 PRY,South America,Paraguay,2020-03-08,1.0,1.0,
 PRY,South America,Paraguay,2020-03-09,,,
@@ -39615,6 +39771,7 @@ PRY,South America,Paraguay,2020-10-23,57526.0,707.0,1267.0
 PRY,South America,Paraguay,2020-10-24,58259.0,733.0,1278.0
 PRY,South America,Paraguay,2020-10-25,59043.0,784.0,1293.0
 PRY,South America,Paraguay,2020-10-26,59594.0,551.0,1309.0
+PRY,South America,Paraguay,2020-10-27,59594.0,0.0,1309.0
 PSE,Asia,Palestine,2020-03-06,7.0,7.0,
 PSE,Asia,Palestine,2020-03-07,16.0,9.0,
 PSE,Asia,Palestine,2020-03-08,19.0,3.0,
@@ -39849,6 +40006,7 @@ PSE,Asia,Palestine,2020-10-23,60670.0,506.0,505.0
 PSE,Asia,Palestine,2020-10-24,61183.0,513.0,509.0
 PSE,Asia,Palestine,2020-10-25,61593.0,410.0,513.0
 PSE,Asia,Palestine,2020-10-26,62046.0,453.0,518.0
+PSE,Asia,Palestine,2020-10-27,62046.0,0.0,518.0
 PYF,Oceania,French Polynesia,2020-03-19,3.0,3.0,
 PYF,Oceania,French Polynesia,2020-03-20,3.0,0.0,
 PYF,Oceania,French Polynesia,2020-03-21,15.0,12.0,
@@ -40071,6 +40229,7 @@ PYF,Oceania,French Polynesia,2020-10-23,5099.0,489.0,19.0
 PYF,Oceania,French Polynesia,2020-10-24,5797.0,698.0,20.0
 PYF,Oceania,French Polynesia,2020-10-25,5797.0,0.0,20.0
 PYF,Oceania,French Polynesia,2020-10-26,5797.0,0.0,20.0
+PYF,Oceania,French Polynesia,2020-10-27,5859.0,62.0,20.0
 QAT,Asia,Qatar,2019-12-31,,0.0,
 QAT,Asia,Qatar,2020-01-01,,0.0,
 QAT,Asia,Qatar,2020-01-02,,0.0,
@@ -40372,6 +40531,7 @@ QAT,Asia,Qatar,2020-10-23,130462.0,252.0,228.0
 QAT,Asia,Qatar,2020-10-24,130711.0,249.0,229.0
 QAT,Asia,Qatar,2020-10-25,130965.0,254.0,229.0
 QAT,Asia,Qatar,2020-10-26,131170.0,205.0,230.0
+QAT,Asia,Qatar,2020-10-27,131432.0,262.0,230.0
 ROU,Europe,Romania,2019-12-31,,0.0,
 ROU,Europe,Romania,2020-01-01,,0.0,
 ROU,Europe,Romania,2020-01-02,,0.0,
@@ -40673,6 +40833,7 @@ ROU,Europe,Romania,2020-10-23,196004.0,4902.0,6163.0
 ROU,Europe,Romania,2020-10-24,201032.0,5028.0,6245.0
 ROU,Europe,Romania,2020-10-25,205793.0,4761.0,6318.0
 ROU,Europe,Romania,2020-10-26,209648.0,3855.0,6391.0
+ROU,Europe,Romania,2020-10-27,212492.0,2844.0,6470.0
 RUS,Europe,Russia,2019-12-31,,0.0,
 RUS,Europe,Russia,2020-01-01,,0.0,
 RUS,Europe,Russia,2020-01-02,,0.0,
@@ -40974,6 +41135,7 @@ RUS,Europe,Russia,2020-10-23,1463306.0,15971.0,25242.0
 RUS,Europe,Russia,2020-10-24,1480646.0,17340.0,25525.0
 RUS,Europe,Russia,2020-10-25,1497167.0,16521.0,25821.0
 RUS,Europe,Russia,2020-10-26,1513877.0,16710.0,26050.0
+RUS,Europe,Russia,2020-10-27,1547774.0,33897.0,26589.0
 RWA,Africa,Rwanda,2020-03-15,1.0,1.0,
 RWA,Africa,Rwanda,2020-03-16,5.0,4.0,
 RWA,Africa,Rwanda,2020-03-17,5.0,0.0,
@@ -41200,6 +41362,7 @@ RWA,Africa,Rwanda,2020-10-23,5017.0,5.0,34.0
 RWA,Africa,Rwanda,2020-10-24,5052.0,35.0,34.0
 RWA,Africa,Rwanda,2020-10-25,5060.0,8.0,34.0
 RWA,Africa,Rwanda,2020-10-26,5066.0,6.0,34.0
+RWA,Africa,Rwanda,2020-10-27,5073.0,7.0,34.0
 SAU,Asia,Saudi Arabia,2020-03-02,,,
 SAU,Asia,Saudi Arabia,2020-03-03,1.0,1.0,
 SAU,Asia,Saudi Arabia,2020-03-04,,,
@@ -41439,6 +41602,7 @@ SAU,Asia,Saudi Arabia,2020-10-23,343774.0,401.0,5250.0
 SAU,Asia,Saudi Arabia,2020-10-24,344157.0,383.0,5264.0
 SAU,Asia,Saudi Arabia,2020-10-25,344552.0,395.0,5281.0
 SAU,Asia,Saudi Arabia,2020-10-26,344875.0,323.0,5296.0
+SAU,Asia,Saudi Arabia,2020-10-27,345232.0,357.0,5313.0
 SDN,Africa,Sudan,2020-03-14,1.0,1.0,
 SDN,Africa,Sudan,2020-03-15,1.0,0.0,1.0
 SDN,Africa,Sudan,2020-03-16,1.0,0.0,1.0
@@ -41666,6 +41830,7 @@ SDN,Africa,Sudan,2020-10-23,13724.0,0.0,836.0
 SDN,Africa,Sudan,2020-10-24,13724.0,0.0,836.0
 SDN,Africa,Sudan,2020-10-25,13742.0,18.0,837.0
 SDN,Africa,Sudan,2020-10-26,13742.0,0.0,837.0
+SDN,Africa,Sudan,2020-10-27,13747.0,5.0,837.0
 SEN,Africa,Senegal,2020-02-28,,,
 SEN,Africa,Senegal,2020-02-29,,,
 SEN,Africa,Senegal,2020-03-01,,,
@@ -41908,6 +42073,7 @@ SEN,Africa,Senegal,2020-10-23,15508.0,24.0,321.0
 SEN,Africa,Senegal,2020-10-24,15525.0,17.0,321.0
 SEN,Africa,Senegal,2020-10-25,15543.0,18.0,321.0
 SEN,Africa,Senegal,2020-10-26,15551.0,8.0,321.0
+SEN,Africa,Senegal,2020-10-27,15565.0,14.0,322.0
 SGP,Asia,Singapore,2019-12-31,,0.0,
 SGP,Asia,Singapore,2020-01-01,,0.0,
 SGP,Asia,Singapore,2020-01-02,,0.0,
@@ -42209,6 +42375,7 @@ SGP,Asia,Singapore,2020-10-23,57941.0,8.0,28.0
 SGP,Asia,Singapore,2020-10-24,57951.0,10.0,28.0
 SGP,Asia,Singapore,2020-10-25,57965.0,14.0,28.0
 SGP,Asia,Singapore,2020-10-26,57970.0,5.0,28.0
+SGP,Asia,Singapore,2020-10-27,57973.0,3.0,28.0
 SLB,Oceania,Solomon Islands,2020-10-16,2.0,2.0,
 SLB,Oceania,Solomon Islands,2020-10-17,3.0,1.0,
 SLB,Oceania,Solomon Islands,2020-10-18,3.0,0.0,
@@ -42220,6 +42387,7 @@ SLB,Oceania,Solomon Islands,2020-10-23,3.0,0.0,
 SLB,Oceania,Solomon Islands,2020-10-24,3.0,0.0,
 SLB,Oceania,Solomon Islands,2020-10-25,4.0,1.0,
 SLB,Oceania,Solomon Islands,2020-10-26,4.0,0.0,
+SLB,Oceania,Solomon Islands,2020-10-27,4.0,0.0,
 SLE,Africa,Sierra Leone,2020-04-01,1.0,1.0,
 SLE,Africa,Sierra Leone,2020-04-02,1.0,0.0,
 SLE,Africa,Sierra Leone,2020-04-03,2.0,1.0,
@@ -42429,6 +42597,7 @@ SLE,Africa,Sierra Leone,2020-10-23,2340.0,3.0,73.0
 SLE,Africa,Sierra Leone,2020-10-24,2343.0,3.0,74.0
 SLE,Africa,Sierra Leone,2020-10-25,2345.0,2.0,74.0
 SLE,Africa,Sierra Leone,2020-10-26,2346.0,1.0,74.0
+SLE,Africa,Sierra Leone,2020-10-27,2346.0,0.0,74.0
 SLV,North America,El Salvador,2020-03-19,1.0,1.0,
 SLV,North America,El Salvador,2020-03-20,1.0,0.0,
 SLV,North America,El Salvador,2020-03-21,3.0,2.0,
@@ -42651,6 +42820,7 @@ SLV,North America,El Salvador,2020-10-23,32262.0,142.0,940.0
 SLV,North America,El Salvador,2020-10-24,32421.0,159.0,944.0
 SLV,North America,El Salvador,2020-10-25,32585.0,164.0,949.0
 SLV,North America,El Salvador,2020-10-26,32585.0,0.0,953.0
+SLV,North America,El Salvador,2020-10-27,32925.0,340.0,953.0
 SMR,Europe,San Marino,2019-12-31,,0.0,
 SMR,Europe,San Marino,2020-01-01,,0.0,
 SMR,Europe,San Marino,2020-01-02,,0.0,
@@ -42952,6 +43122,7 @@ SMR,Europe,San Marino,2020-10-23,802.0,28.0,42.0
 SMR,Europe,San Marino,2020-10-24,819.0,17.0,42.0
 SMR,Europe,San Marino,2020-10-25,819.0,0.0,42.0
 SMR,Europe,San Marino,2020-10-26,819.0,0.0,42.0
+SMR,Europe,San Marino,2020-10-27,852.0,33.0,42.0
 SOM,Africa,Somalia,2020-03-17,1.0,1.0,
 SOM,Africa,Somalia,2020-03-18,1.0,0.0,
 SOM,Africa,Somalia,2020-03-19,1.0,0.0,
@@ -43176,6 +43347,7 @@ SOM,Africa,Somalia,2020-10-23,3897.0,7.0,102.0
 SOM,Africa,Somalia,2020-10-24,3897.0,0.0,102.0
 SOM,Africa,Somalia,2020-10-25,3897.0,0.0,102.0
 SOM,Africa,Somalia,2020-10-26,3941.0,44.0,104.0
+SOM,Africa,Somalia,2020-10-27,3941.0,0.0,104.0
 SRB,Europe,Serbia,2020-02-26,,,
 SRB,Europe,Serbia,2020-02-27,,,
 SRB,Europe,Serbia,2020-02-28,,,
@@ -43420,6 +43592,7 @@ SRB,Europe,Serbia,2020-10-23,37536.0,416.0,783.0
 SRB,Europe,Serbia,2020-10-24,38115.0,579.0,786.0
 SRB,Europe,Serbia,2020-10-25,38872.0,757.0,789.0
 SRB,Europe,Serbia,2020-10-26,39486.0,614.0,792.0
+SRB,Europe,Serbia,2020-10-27,39827.0,341.0,793.0
 SSD,Africa,South Sudan,2020-04-06,1.0,1.0,
 SSD,Africa,South Sudan,2020-04-07,1.0,0.0,
 SSD,Africa,South Sudan,2020-04-08,1.0,0.0,
@@ -43624,6 +43797,7 @@ SSD,Africa,South Sudan,2020-10-23,2872.0,2.0,55.0
 SSD,Africa,South Sudan,2020-10-24,2876.0,4.0,56.0
 SSD,Africa,South Sudan,2020-10-25,2878.0,2.0,56.0
 SSD,Africa,South Sudan,2020-10-26,2883.0,5.0,56.0
+SSD,Africa,South Sudan,2020-10-27,2883.0,0.0,56.0
 STP,Africa,Sao Tome and Principe,2020-04-09,4.0,4.0,
 STP,Africa,Sao Tome and Principe,2020-04-10,4.0,0.0,
 STP,Africa,Sao Tome and Principe,2020-04-11,4.0,0.0,
@@ -43825,6 +43999,7 @@ STP,Africa,Sao Tome and Principe,2020-10-23,935.0,0.0,15.0
 STP,Africa,Sao Tome and Principe,2020-10-24,938.0,3.0,15.0
 STP,Africa,Sao Tome and Principe,2020-10-25,940.0,2.0,15.0
 STP,Africa,Sao Tome and Principe,2020-10-26,940.0,0.0,15.0
+STP,Africa,Sao Tome and Principe,2020-10-27,941.0,1.0,15.0
 SUR,South America,Suriname,2020-03-15,1.0,1.0,
 SUR,South America,Suriname,2020-03-21,1.0,0.0,
 SUR,South America,Suriname,2020-03-22,5.0,4.0,
@@ -44046,6 +44221,7 @@ SUR,South America,Suriname,2020-10-23,5154.0,4.0,109.0
 SUR,South America,Suriname,2020-10-24,5155.0,1.0,109.0
 SUR,South America,Suriname,2020-10-25,5166.0,11.0,109.0
 SUR,South America,Suriname,2020-10-26,5170.0,4.0,109.0
+SUR,South America,Suriname,2020-10-27,5180.0,10.0,110.0
 SVK,Europe,Slovakia,2020-03-06,,,
 SVK,Europe,Slovakia,2020-03-07,1.0,1.0,
 SVK,Europe,Slovakia,2020-03-08,3.0,2.0,
@@ -44281,6 +44457,7 @@ SVK,Europe,Slovakia,2020-10-23,35330.0,1728.0,115.0
 SVK,Europe,Slovakia,2020-10-24,37911.0,2581.0,134.0
 SVK,Europe,Slovakia,2020-10-25,40801.0,2890.0,159.0
 SVK,Europe,Slovakia,2020-10-26,43843.0,3042.0,159.0
+SVK,Europe,Slovakia,2020-10-27,45155.0,1312.0,165.0
 SVN,Europe,Slovenia,2020-03-05,1.0,1.0,
 SVN,Europe,Slovenia,2020-03-06,6.0,5.0,
 SVN,Europe,Slovenia,2020-03-07,9.0,3.0,
@@ -44516,6 +44693,7 @@ SVN,Europe,Slovenia,2020-10-23,17651.0,1668.0,174.0
 SVN,Europe,Slovenia,2020-10-24,19313.0,1662.0,179.0
 SVN,Europe,Slovenia,2020-10-25,21277.0,1964.0,181.0
 SVN,Europe,Slovenia,2020-10-26,22950.0,1673.0,183.0
+SVN,Europe,Slovenia,2020-10-27,24080.0,1130.0,188.0
 SWE,Europe,Sweden,2019-12-31,,0.0,
 SWE,Europe,Sweden,2020-01-01,,0.0,
 SWE,Europe,Sweden,2020-01-02,,0.0,
@@ -45040,6 +45218,7 @@ SWZ,Africa,Swaziland,2020-10-23,5814.0,9.0,116.0
 SWZ,Africa,Swaziland,2020-10-24,5831.0,17.0,116.0
 SWZ,Africa,Swaziland,2020-10-25,5847.0,16.0,116.0
 SWZ,Africa,Swaziland,2020-10-26,5854.0,7.0,116.0
+SWZ,Africa,Swaziland,2020-10-27,5863.0,9.0,116.0
 SXM,North America,Sint Maarten (Dutch part),2020-03-03,1.0,1.0,
 SXM,North America,Sint Maarten (Dutch part),2020-03-09,,,
 SXM,North America,Sint Maarten (Dutch part),2020-03-10,,,
@@ -45273,6 +45452,7 @@ SXM,North America,Sint Maarten (Dutch part),2020-10-23,776.0,7.0,22.0
 SXM,North America,Sint Maarten (Dutch part),2020-10-24,780.0,4.0,22.0
 SXM,North America,Sint Maarten (Dutch part),2020-10-25,780.0,0.0,22.0
 SXM,North America,Sint Maarten (Dutch part),2020-10-26,784.0,4.0,22.0
+SXM,North America,Sint Maarten (Dutch part),2020-10-27,789.0,5.0,22.0
 SYC,Africa,Seychelles,2020-03-15,2.0,2.0,
 SYC,Africa,Seychelles,2020-03-16,3.0,1.0,
 SYC,Africa,Seychelles,2020-03-17,4.0,1.0,
@@ -45499,6 +45679,7 @@ SYC,Africa,Seychelles,2020-10-23,153.0,2.0,
 SYC,Africa,Seychelles,2020-10-24,153.0,0.0,
 SYC,Africa,Seychelles,2020-10-25,153.0,0.0,
 SYC,Africa,Seychelles,2020-10-26,153.0,0.0,
+SYC,Africa,Seychelles,2020-10-27,153.0,0.0,
 SYR,Asia,Syria,2020-03-23,1.0,1.0,
 SYR,Asia,Syria,2020-03-24,1.0,0.0,
 SYR,Asia,Syria,2020-03-25,1.0,0.0,
@@ -45717,6 +45898,7 @@ SYR,Asia,Syria,2020-10-23,5267.0,43.0,260.0
 SYR,Asia,Syria,2020-10-24,5319.0,52.0,264.0
 SYR,Asia,Syria,2020-10-25,5359.0,40.0,267.0
 SYR,Asia,Syria,2020-10-26,5408.0,49.0,269.0
+SYR,Asia,Syria,2020-10-27,5461.0,53.0,272.0
 TCA,North America,Turks and Caicos Islands,2020-03-25,1.0,1.0,
 TCA,North America,Turks and Caicos Islands,2020-03-26,1.0,0.0,
 TCA,North America,Turks and Caicos Islands,2020-03-27,2.0,1.0,
@@ -45933,6 +46115,7 @@ TCA,North America,Turks and Caicos Islands,2020-10-23,698.0,0.0,6.0
 TCA,North America,Turks and Caicos Islands,2020-10-24,699.0,1.0,6.0
 TCA,North America,Turks and Caicos Islands,2020-10-25,701.0,2.0,6.0
 TCA,North America,Turks and Caicos Islands,2020-10-26,701.0,0.0,6.0
+TCA,North America,Turks and Caicos Islands,2020-10-27,701.0,0.0,6.0
 TCD,Africa,Chad,2020-03-20,1.0,1.0,
 TCD,Africa,Chad,2020-03-21,1.0,0.0,
 TCD,Africa,Chad,2020-03-22,2.0,1.0,
@@ -46154,6 +46337,7 @@ TCD,Africa,Chad,2020-10-23,1410.0,6.0,96.0
 TCD,Africa,Chad,2020-10-24,1423.0,13.0,96.0
 TCD,Africa,Chad,2020-10-25,1434.0,11.0,96.0
 TCD,Africa,Chad,2020-10-26,1437.0,3.0,96.0
+TCD,Africa,Chad,2020-10-27,1441.0,4.0,96.0
 TGO,Africa,Togo,2020-03-04,,,
 TGO,Africa,Togo,2020-03-05,,,
 TGO,Africa,Togo,2020-03-06,,,
@@ -46391,6 +46575,7 @@ TGO,Africa,Togo,2020-10-23,2139.0,19.0,52.0
 TGO,Africa,Togo,2020-10-24,2162.0,23.0,52.0
 TGO,Africa,Togo,2020-10-25,2187.0,25.0,52.0
 TGO,Africa,Togo,2020-10-26,2200.0,13.0,52.0
+TGO,Africa,Togo,2020-10-27,2204.0,4.0,53.0
 THA,Asia,Thailand,2019-12-31,,0.0,
 THA,Asia,Thailand,2020-01-01,,0.0,
 THA,Asia,Thailand,2020-01-02,,0.0,
@@ -46692,6 +46877,7 @@ THA,Asia,Thailand,2020-10-23,3727.0,8.0,59.0
 THA,Asia,Thailand,2020-10-24,3731.0,4.0,59.0
 THA,Asia,Thailand,2020-10-25,3736.0,5.0,59.0
 THA,Asia,Thailand,2020-10-26,3743.0,7.0,59.0
+THA,Asia,Thailand,2020-10-27,3746.0,3.0,59.0
 TJK,Asia,Tajikistan,2020-05-01,15.0,15.0,
 TJK,Asia,Tajikistan,2020-05-02,15.0,0.0,
 TJK,Asia,Tajikistan,2020-05-03,32.0,17.0,
@@ -46871,6 +47057,7 @@ TJK,Asia,Tajikistan,2020-10-23,10653.0,40.0,81.0
 TJK,Asia,Tajikistan,2020-10-24,10695.0,42.0,81.0
 TJK,Asia,Tajikistan,2020-10-25,10736.0,41.0,81.0
 TJK,Asia,Tajikistan,2020-10-26,10776.0,40.0,81.0
+TJK,Asia,Tajikistan,2020-10-27,10819.0,43.0,81.0
 TLS,Asia,Timor,2020-03-22,1.0,1.0,
 TLS,Asia,Timor,2020-03-23,1.0,0.0,
 TLS,Asia,Timor,2020-03-24,1.0,0.0,
@@ -47090,6 +47277,7 @@ TLS,Asia,Timor,2020-10-23,29.0,0.0,
 TLS,Asia,Timor,2020-10-24,29.0,0.0,
 TLS,Asia,Timor,2020-10-25,29.0,0.0,
 TLS,Asia,Timor,2020-10-26,29.0,0.0,
+TLS,Asia,Timor,2020-10-27,30.0,1.0,
 TTO,North America,Trinidad and Tobago,2020-03-13,1.0,1.0,
 TTO,North America,Trinidad and Tobago,2020-03-14,2.0,1.0,
 TTO,North America,Trinidad and Tobago,2020-03-15,2.0,0.0,
@@ -47318,6 +47506,7 @@ TTO,North America,Trinidad and Tobago,2020-10-23,5446.0,54.0,103.0
 TTO,North America,Trinidad and Tobago,2020-10-24,5487.0,41.0,104.0
 TTO,North America,Trinidad and Tobago,2020-10-25,5503.0,16.0,105.0
 TTO,North America,Trinidad and Tobago,2020-10-26,5511.0,8.0,105.0
+TTO,North America,Trinidad and Tobago,2020-10-27,5535.0,24.0,106.0
 TUN,Africa,Tunisia,2020-03-03,1.0,1.0,
 TUN,Africa,Tunisia,2020-03-09,,,
 TUN,Africa,Tunisia,2020-03-10,2.0,1.0,
@@ -47551,6 +47740,7 @@ TUN,Africa,Tunisia,2020-10-23,45892.0,0.0,740.0
 TUN,Africa,Tunisia,2020-10-24,47214.0,1322.0,784.0
 TUN,Africa,Tunisia,2020-10-25,48799.0,1585.0,819.0
 TUN,Africa,Tunisia,2020-10-26,48799.0,0.0,819.0
+TUN,Africa,Tunisia,2020-10-27,52399.0,3600.0,983.0
 TUR,Asia,Turkey,2020-03-12,1.0,1.0,
 TUR,Asia,Turkey,2020-03-13,2.0,1.0,
 TUR,Asia,Turkey,2020-03-16,18.0,16.0,
@@ -47778,6 +47968,7 @@ TUR,Asia,Turkey,2020-10-23,355528.0,2102.0,9584.0
 TUR,Asia,Turkey,2020-10-24,357693.0,2165.0,9658.0
 TUR,Asia,Turkey,2020-10-25,359784.0,2091.0,9727.0
 TUR,Asia,Turkey,2020-10-26,361801.0,2017.0,9799.0
+TUR,Asia,Turkey,2020-10-27,363999.0,2198.0,9874.0
 TWN,Asia,Taiwan,2019-12-31,,0.0,
 TWN,Asia,Taiwan,2020-01-01,,0.0,
 TWN,Asia,Taiwan,2020-01-02,,0.0,
@@ -48079,6 +48270,7 @@ TWN,Asia,Taiwan,2020-10-23,548.0,4.0,7.0
 TWN,Asia,Taiwan,2020-10-24,550.0,2.0,7.0
 TWN,Asia,Taiwan,2020-10-25,550.0,0.0,7.0
 TWN,Asia,Taiwan,2020-10-26,550.0,0.0,7.0
+TWN,Asia,Taiwan,2020-10-27,550.0,0.0,7.0
 TZA,Africa,Tanzania,2020-03-17,1.0,1.0,
 TZA,Africa,Tanzania,2020-03-18,1.0,0.0,
 TZA,Africa,Tanzania,2020-03-19,3.0,2.0,
@@ -48303,6 +48495,7 @@ TZA,Africa,Tanzania,2020-10-23,509.0,0.0,21.0
 TZA,Africa,Tanzania,2020-10-24,509.0,0.0,21.0
 TZA,Africa,Tanzania,2020-10-25,509.0,0.0,21.0
 TZA,Africa,Tanzania,2020-10-26,509.0,0.0,21.0
+TZA,Africa,Tanzania,2020-10-27,509.0,0.0,21.0
 UGA,Africa,Uganda,2020-03-22,1.0,1.0,
 UGA,Africa,Uganda,2020-03-23,1.0,0.0,
 UGA,Africa,Uganda,2020-03-24,9.0,8.0,
@@ -48522,6 +48715,7 @@ UGA,Africa,Uganda,2020-10-23,11041.0,108.0,98.0
 UGA,Africa,Uganda,2020-10-24,11163.0,122.0,99.0
 UGA,Africa,Uganda,2020-10-25,11297.0,134.0,99.0
 UGA,Africa,Uganda,2020-10-26,11443.0,146.0,101.0
+UGA,Africa,Uganda,2020-10-27,11557.0,114.0,101.0
 UKR,Europe,Ukraine,2020-03-04,1.0,1.0,
 UKR,Europe,Ukraine,2020-03-10,,,
 UKR,Europe,Ukraine,2020-03-11,,,
@@ -48754,6 +48948,7 @@ UKR,Europe,Ukraine,2020-10-23,322879.0,7053.0,6043.0
 UKR,Europe,Ukraine,2020-10-24,330396.0,7517.0,6164.0
 UKR,Europe,Ukraine,2020-10-25,337410.0,7014.0,6289.0
 UKR,Europe,Ukraine,2020-10-26,343489.0,6079.0,6391.0
+UKR,Europe,Ukraine,2020-10-27,348924.0,5435.0,6464.0
 URY,South America,Uruguay,2020-03-15,6.0,6.0,
 URY,South America,Uruguay,2020-03-16,8.0,2.0,
 URY,South America,Uruguay,2020-03-17,29.0,21.0,
@@ -48980,6 +49175,7 @@ URY,South America,Uruguay,2020-10-23,2701.0,38.0,53.0
 URY,South America,Uruguay,2020-10-24,2759.0,58.0,53.0
 URY,South America,Uruguay,2020-10-25,2807.0,48.0,53.0
 URY,South America,Uruguay,2020-10-26,2851.0,44.0,53.0
+URY,South America,Uruguay,2020-10-27,2872.0,21.0,54.0
 USA,North America,United States,2019-12-31,,0.0,
 USA,North America,United States,2020-01-01,,0.0,
 USA,North America,United States,2020-01-02,,0.0,
@@ -49281,6 +49477,7 @@ USA,North America,United States,2020-10-23,8408340.0,72058.0,223042.0
 USA,North America,United States,2020-10-24,8493669.0,85329.0,223995.0
 USA,North America,United States,2020-10-25,8576725.0,83056.0,224899.0
 USA,North America,United States,2020-10-26,8636165.0,59440.0,225230.0
+USA,North America,United States,2020-10-27,8704524.0,68359.0,225735.0
 UZB,Asia,Uzbekistan,2020-03-16,6.0,6.0,
 UZB,Asia,Uzbekistan,2020-03-17,8.0,2.0,
 UZB,Asia,Uzbekistan,2020-03-18,16.0,8.0,
@@ -49506,6 +49703,7 @@ UZB,Asia,Uzbekistan,2020-10-23,64633.0,298.0,541.0
 UZB,Asia,Uzbekistan,2020-10-24,64811.0,178.0,542.0
 UZB,Asia,Uzbekistan,2020-10-25,65200.0,389.0,547.0
 UZB,Asia,Uzbekistan,2020-10-26,65480.0,280.0,550.0
+UZB,Asia,Uzbekistan,2020-10-27,65765.0,285.0,554.0
 VAT,Europe,Vatican,2020-03-07,1.0,1.0,
 VAT,Europe,Vatican,2020-03-13,,,
 VAT,Europe,Vatican,2020-03-14,,,
@@ -49735,6 +49933,7 @@ VAT,Europe,Vatican,2020-10-23,26.0,0.0,
 VAT,Europe,Vatican,2020-10-24,26.0,0.0,
 VAT,Europe,Vatican,2020-10-25,26.0,0.0,
 VAT,Europe,Vatican,2020-10-26,26.0,0.0,
+VAT,Europe,Vatican,2020-10-27,26.0,0.0,
 VCT,North America,Saint Vincent and the Grenadines,2020-03-13,1.0,1.0,
 VCT,North America,Saint Vincent and the Grenadines,2020-03-19,,,
 VCT,North America,Saint Vincent and the Grenadines,2020-03-20,,,
@@ -49958,6 +50157,7 @@ VCT,North America,Saint Vincent and the Grenadines,2020-10-23,68.0,0.0,
 VCT,North America,Saint Vincent and the Grenadines,2020-10-24,73.0,5.0,
 VCT,North America,Saint Vincent and the Grenadines,2020-10-25,73.0,0.0,
 VCT,North America,Saint Vincent and the Grenadines,2020-10-26,73.0,0.0,
+VCT,North America,Saint Vincent and the Grenadines,2020-10-27,73.0,0.0,
 VEN,South America,Venezuela,2020-03-15,10.0,10.0,
 VEN,South America,Venezuela,2020-03-16,15.0,5.0,
 VEN,South America,Venezuela,2020-03-17,33.0,18.0,
@@ -50184,6 +50384,7 @@ VEN,South America,Venezuela,2020-10-23,88416.0,381.0,759.0
 VEN,South America,Venezuela,2020-10-24,88718.0,302.0,764.0
 VEN,South America,Venezuela,2020-10-25,89142.0,424.0,770.0
 VEN,South America,Venezuela,2020-10-26,89565.0,423.0,773.0
+VEN,South America,Venezuela,2020-10-27,90047.0,482.0,777.0
 VGB,North America,British Virgin Islands,2020-03-27,2.0,2.0,
 VGB,North America,British Virgin Islands,2020-03-28,2.0,0.0,
 VGB,North America,British Virgin Islands,2020-03-29,2.0,0.0,
@@ -50398,6 +50599,7 @@ VGB,North America,British Virgin Islands,2020-10-23,72.0,0.0,1.0
 VGB,North America,British Virgin Islands,2020-10-24,72.0,0.0,1.0
 VGB,North America,British Virgin Islands,2020-10-25,72.0,0.0,1.0
 VGB,North America,British Virgin Islands,2020-10-26,72.0,0.0,1.0
+VGB,North America,British Virgin Islands,2020-10-27,72.0,0.0,1.0
 VIR,North America,United States Virgin Islands,2020-03-24,17.0,17.0,
 VIR,North America,United States Virgin Islands,2020-03-25,17.0,0.0,
 VIR,North America,United States Virgin Islands,2020-03-26,17.0,0.0,
@@ -50615,6 +50817,7 @@ VIR,North America,United States Virgin Islands,2020-10-23,1343.0,0.0,21.0
 VIR,North America,United States Virgin Islands,2020-10-24,1346.0,3.0,21.0
 VIR,North America,United States Virgin Islands,2020-10-25,1348.0,2.0,21.0
 VIR,North America,United States Virgin Islands,2020-10-26,1348.0,0.0,21.0
+VIR,North America,United States Virgin Islands,2020-10-27,1348.0,0.0,21.0
 VNM,Asia,Vietnam,2019-12-31,,0.0,
 VNM,Asia,Vietnam,2020-01-01,,0.0,
 VNM,Asia,Vietnam,2020-01-02,,0.0,
@@ -50916,6 +51119,7 @@ VNM,Asia,Vietnam,2020-10-23,1148.0,3.0,35.0
 VNM,Asia,Vietnam,2020-10-24,1148.0,0.0,35.0
 VNM,Asia,Vietnam,2020-10-25,1160.0,12.0,35.0
 VNM,Asia,Vietnam,2020-10-26,1168.0,8.0,35.0
+VNM,Asia,Vietnam,2020-10-27,1169.0,1.0,35.0
 WLF,Oceania,Wallis and Futuna,2020-10-17,1.0,1.0,
 WLF,Oceania,Wallis and Futuna,2020-10-18,1.0,0.0,
 WLF,Oceania,Wallis and Futuna,2020-10-19,1.0,0.0,
@@ -50926,6 +51130,7 @@ WLF,Oceania,Wallis and Futuna,2020-10-23,1.0,0.0,
 WLF,Oceania,Wallis and Futuna,2020-10-24,1.0,0.0,
 WLF,Oceania,Wallis and Futuna,2020-10-25,1.0,0.0,
 WLF,Oceania,Wallis and Futuna,2020-10-26,1.0,0.0,
+WLF,Oceania,Wallis and Futuna,2020-10-27,1.0,0.0,
 OWID_KOS,Europe,Kosovo,2020-03-14,2.0,2.0,
 OWID_KOS,Europe,Kosovo,2020-03-15,5.0,3.0,
 OWID_KOS,Europe,Kosovo,2020-03-16,13.0,8.0,
@@ -51153,6 +51358,7 @@ OWID_KOS,Europe,Kosovo,2020-10-23,17422.0,159.0,657.0
 OWID_KOS,Europe,Kosovo,2020-10-24,17591.0,169.0,659.0
 OWID_KOS,Europe,Kosovo,2020-10-25,17757.0,166.0,661.0
 OWID_KOS,Europe,Kosovo,2020-10-26,17943.0,186.0,663.0
+OWID_KOS,Europe,Kosovo,2020-10-27,18148.0,205.0,666.0
 YEM,Asia,Yemen,2020-04-10,1.0,1.0,
 YEM,Asia,Yemen,2020-04-11,1.0,0.0,
 YEM,Asia,Yemen,2020-04-12,1.0,0.0,
@@ -51353,6 +51559,7 @@ YEM,Asia,Yemen,2020-10-23,2061.0,0.0,599.0
 YEM,Asia,Yemen,2020-10-24,2061.0,0.0,599.0
 YEM,Asia,Yemen,2020-10-25,2064.0,3.0,600.0
 YEM,Asia,Yemen,2020-10-26,2064.0,0.0,600.0
+YEM,Asia,Yemen,2020-10-27,2064.0,0.0,600.0
 ZAF,Africa,South Africa,2020-02-07,,,
 ZAF,Africa,South Africa,2020-02-08,,,
 ZAF,Africa,South Africa,2020-02-09,,,
@@ -51616,6 +51823,7 @@ ZAF,Africa,South Africa,2020-10-23,710515.0,2156.0,18843.0
 ZAF,Africa,South Africa,2020-10-24,712412.0,1897.0,18891.0
 ZAF,Africa,South Africa,2020-10-25,714246.0,1834.0,18944.0
 ZAF,Africa,South Africa,2020-10-26,715868.0,1622.0,18968.0
+ZAF,Africa,South Africa,2020-10-27,716759.0,891.0,19008.0
 ZMB,Africa,Zambia,2020-03-19,2.0,2.0,
 ZMB,Africa,Zambia,2020-03-20,2.0,0.0,
 ZMB,Africa,Zambia,2020-03-21,2.0,0.0,
@@ -51838,6 +52046,7 @@ ZMB,Africa,Zambia,2020-10-23,16035.0,35.0,346.0
 ZMB,Africa,Zambia,2020-10-24,16095.0,60.0,346.0
 ZMB,Africa,Zambia,2020-10-25,16117.0,22.0,348.0
 ZMB,Africa,Zambia,2020-10-26,16117.0,0.0,348.0
+ZMB,Africa,Zambia,2020-10-27,16200.0,83.0,348.0
 ZWE,Africa,Zimbabwe,2020-03-21,1.0,1.0,
 ZWE,Africa,Zimbabwe,2020-03-22,2.0,1.0,
 ZWE,Africa,Zimbabwe,2020-03-23,2.0,0.0,
@@ -52058,6 +52267,7 @@ ZWE,Africa,Zimbabwe,2020-10-23,8242.0,27.0,236.0
 ZWE,Africa,Zimbabwe,2020-10-24,8257.0,15.0,236.0
 ZWE,Africa,Zimbabwe,2020-10-25,8269.0,12.0,236.0
 ZWE,Africa,Zimbabwe,2020-10-26,8276.0,7.0,237.0
+ZWE,Africa,Zimbabwe,2020-10-27,8303.0,27.0,242.0
 OWID_WRL,,World,2019-12-31,27.0,27.0,
 OWID_WRL,,World,2020-01-01,27.0,0.0,
 OWID_WRL,,World,2020-01-02,27.0,0.0,
@@ -52289,14 +52499,14 @@ OWID_WRL,,World,2020-08-14,20973576.0,285548.0,754083.0
 OWID_WRL,,World,2020-08-15,21262925.0,289349.0,760324.0
 OWID_WRL,,World,2020-08-16,21519357.0,256432.0,765981.0
 OWID_WRL,,World,2020-08-17,21749533.0,230176.0,770214.0
-OWID_WRL,,World,2020-08-18,21949217.0,199684.0,774484.0
-OWID_WRL,,World,2020-08-19,22205296.0,256079.0,781175.0
-OWID_WRL,,World,2020-08-20,22487170.0,281874.0,787720.0
+OWID_WRL,,World,2020-08-18,21949217.0,199684.0,774507.0
+OWID_WRL,,World,2020-08-19,22206541.0,257324.0,781208.0
+OWID_WRL,,World,2020-08-20,22487170.0,280629.0,787720.0
 OWID_WRL,,World,2020-08-21,22762552.0,275382.0,794073.0
 OWID_WRL,,World,2020-08-22,23015973.0,253421.0,799942.0
 OWID_WRL,,World,2020-08-23,23279249.0,263276.0,805585.0
-OWID_WRL,,World,2020-08-24,23501919.0,222670.0,808895.0
-OWID_WRL,,World,2020-08-25,23716686.0,214767.0,813172.0
+OWID_WRL,,World,2020-08-24,23503456.0,224207.0,808925.0
+OWID_WRL,,World,2020-08-25,23716686.0,213230.0,813172.0
 OWID_WRL,,World,2020-08-26,23973245.0,256559.0,819649.0
 OWID_WRL,,World,2020-08-27,24251507.0,278262.0,825943.0
 OWID_WRL,,World,2020-08-28,24535139.0,283632.0,832025.0
@@ -52306,9 +52516,9 @@ OWID_WRL,,World,2020-08-31,25321393.0,243219.0,846952.0
 OWID_WRL,,World,2020-09-01,25566909.0,245516.0,851005.0
 OWID_WRL,,World,2020-09-02,25835914.0,269005.0,857517.0
 OWID_WRL,,World,2020-09-03,26120890.0,284976.0,863595.0
-OWID_WRL,,World,2020-09-04,26399955.0,279065.0,869387.0
-OWID_WRL,,World,2020-09-05,26693112.0,293157.0,874972.0
-OWID_WRL,,World,2020-09-06,26969267.0,276155.0,880335.0
+OWID_WRL,,World,2020-09-04,26400955.0,280065.0,869387.0
+OWID_WRL,,World,2020-09-05,26695862.0,294907.0,875011.0
+OWID_WRL,,World,2020-09-06,26969267.0,273405.0,880335.0
 OWID_WRL,,World,2020-09-07,27215266.0,245999.0,889368.0
 OWID_WRL,,World,2020-09-08,27424349.0,209083.0,893189.0
 OWID_WRL,,World,2020-09-09,27670045.0,245696.0,898153.0
@@ -52343,22 +52553,23 @@ OWID_WRL,,World,2020-10-07,35915713.0,326756.0,1048296.0
 OWID_WRL,,World,2020-10-08,36269337.0,353624.0,1054148.0
 OWID_WRL,,World,2020-10-09,36632380.0,363043.0,1063267.0
 OWID_WRL,,World,2020-10-10,36981609.0,349229.0,1069016.0
-OWID_WRL,,World,2020-10-11,37326896.0,345287.0,1073839.0
-OWID_WRL,,World,2020-10-12,37631414.0,304518.0,1077817.0
-OWID_WRL,,World,2020-10-13,37920151.0,288737.0,1081790.0
+OWID_WRL,,World,2020-10-11,37330339.0,348730.0,1073881.0
+OWID_WRL,,World,2020-10-12,37633977.0,303638.0,1077850.0
+OWID_WRL,,World,2020-10-13,37920151.0,286174.0,1081790.0
 OWID_WRL,,World,2020-10-14,38250833.0,330682.0,1087320.0
-OWID_WRL,,World,2020-10-15,38639175.0,388342.0,1093357.0
-OWID_WRL,,World,2020-10-16,39041615.0,402440.0,1099468.0
-OWID_WRL,,World,2020-10-17,39438597.0,396982.0,1105413.0
-OWID_WRL,,World,2020-10-18,39807802.0,369205.0,1110951.0
-OWID_WRL,,World,2020-10-19,40170007.0,362205.0,1114900.0
-OWID_WRL,,World,2020-10-20,40519055.0,349048.0,1119570.0
-OWID_WRL,,World,2020-10-21,40912979.0,393924.0,1125976.0
-OWID_WRL,,World,2020-10-22,41363105.0,450126.0,1132717.0
-OWID_WRL,,World,2020-10-23,41831267.0,468162.0,1139077.0
-OWID_WRL,,World,2020-10-24,42310352.0,479085.0,1145394.0
-OWID_WRL,,World,2020-10-25,42756915.0,446563.0,1151155.0
-OWID_WRL,,World,2020-10-26,43140173.0,383258.0,1155235.0
+OWID_WRL,,World,2020-10-15,38639176.0,388343.0,1093357.0
+OWID_WRL,,World,2020-10-16,39041618.0,402442.0,1099468.0
+OWID_WRL,,World,2020-10-17,39438626.0,397008.0,1105413.0
+OWID_WRL,,World,2020-10-18,39807835.0,369209.0,1110951.0
+OWID_WRL,,World,2020-10-19,40170040.0,362205.0,1114900.0
+OWID_WRL,,World,2020-10-20,40519089.0,349049.0,1119570.0
+OWID_WRL,,World,2020-10-21,40913370.0,394281.0,1125976.0
+OWID_WRL,,World,2020-10-22,41364278.0,450908.0,1132717.0
+OWID_WRL,,World,2020-10-23,41833755.0,469477.0,1139077.0
+OWID_WRL,,World,2020-10-24,42316351.0,482596.0,1145399.0
+OWID_WRL,,World,2020-10-25,42770115.0,453764.0,1151167.0
+OWID_WRL,,World,2020-10-26,43205040.0,434925.0,1155578.0
+OWID_WRL,,World,2020-10-27,43598033.0,392993.0,1160995.0
 ,,International,2019-12-31,,0.0,
 ,,International,2020-01-01,,0.0,
 ,,International,2020-01-02,,0.0,
@@ -52660,3 +52871,4 @@ OWID_WRL,,World,2020-10-26,43140173.0,383258.0,1155235.0
 ,,International,2020-10-24,696.0,,7.0
 ,,International,2020-10-25,696.0,,7.0
 ,,International,2020-10-26,696.0,,7.0
+,,International,2020-10-27,696.0,,7.0
