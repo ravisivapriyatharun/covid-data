@@ -1,0 +1,8 @@
+"country code","continent","country","date","total_cases","new_cases","total deaths","total cases per million","total deaths per million","population","life expectancy","human development index"
+"BHR","Asia","Bahrain","2021-01-03",,,,,,"1701583.0","77.29","0.846"
+"DNK","Europe","Denmark","2021-01-03",,,,,,"5792203.0","80.9","0.929"
+"EST","Europe","Estonia","2021-01-03",,,,,,"1326539.0","78.74","0.871"
+"ITA","Europe","Italy","2021-01-03",,,,,,"60461828.0","83.51","0.88"
+"ROU","Europe","Romania","2021-01-03",,,,,,"19237682.0","76.05","0.811"
+"CRI","North America","Costa Rica","2021-01-03",,,,,,"5094114.0","80.28","0.794"
+"OWID_WRL","World","World","2021-01-03",,,,,,"7794798729.0","72.58",
